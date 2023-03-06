@@ -1,7 +1,16 @@
 Record of feature finding in MZmine and molecular networking:
-MzMine: 1. Raw data import <-raw data methods
+I. MzMine: 1. Raw data import <-raw data methods
 2. Open one of the files to manually investigate
 3. Processing wizard->  LC-MS workflow->choose mode and instrument
 4. MS presets: -MS noise level: zoom in on actual sample and find where the noise is
                -MS2 noise level: choose several MS2 peaks from peak table (more intense and higher m/z) and check noise level 
                -min feature heigh: 3x higher than MS/noise level
+5. HPLC presets: -ret. time: adjust to program
+                 -max peaks in chromatogram: 10-15 (hom namy of the same peaks are in chromatogram)
+                 -min samples per allign feature: depends on how many repeatable samples are in batch
+                 -min # of data points: usually 4
+                 -approx feature FWHM: check several goos peaks
+                 -intra-sample RT tolerance
+                 -inter-sample RT tolearnce
+                 -features with 13C 
+6. Export->V->
