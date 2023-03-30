@@ -13,4 +13,29 @@ I. MzMine: 1. Raw data import <-raw data methods
                  -intra-sample RT tolerance
                  -inter-sample RT tolearnce
                  -features with 13C 
-6. Export->V->
+6. Export->V->choose location, put a date in a name
+7. Build batch->remove smoothing
+                  -ion identity networking->ion identity library->setup->choose all adducts
+*to make , for example, Fe3+:add->put mass monoisotopic->click combine->[M+Fe]+3 + [M-H]- + [M-H]- ->add->[M+Fe-2H]+
+
+II. Molecular Networking-GNPS
+  -Classical:only MS2 data, need to load mzMLfile additionally
+  -Feature-based (FBMN): MS1+MS (perform MzMine feature finding beforehand)
+FBMN requirement files:
+  1. Feature table:.txt or .cvs (with intensities of LC-MS)
+  2. .mgf file: MS2 spectral summary
+  3. Metadata table (text(tab delimited))
+            Metadata table format: open the resul file from feature finding (cvs)->copy all of mzML peak area names
+->transpose->delete "_peak area"->filename
+            Column 1: filename (xxx1.mzML, xxx2.mxML, ...)
+            Column 2: Samplename (input actual sample names that were randomized for MS)
+            Column 3-x: Attribute_shorthand (attribute:wt/mutant/media etc)
+   ! Do both pos and neg modes.
+ Transfer all files through CyberDuck to aronlabshared account.
+ CyberDuck (host: massive.ucsd.edu, username: aronlabshared)
+
+GNPS submission:
+Advanced Analysis Tool->Feature Networking->insert 3 files->basic options (0.02 Da tolerance for both)->
+->Advanced Network Options(min pairs cos : 0.7, min mathced fr.ions:6)->normalization->
+->PCoA Distance Metric: braycurtis (run dereplicator-annotates known Peptide Nat Products)->Submit
+       
