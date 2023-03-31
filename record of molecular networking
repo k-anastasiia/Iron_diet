@@ -38,4 +38,8 @@ GNPS submission:
 Advanced Analysis Tool->Feature Networking->insert 3 files->basic options (0.02 Da tolerance for both)->
 ->Advanced Network Options(min pairs cos : 0.7, min mathced fr.ions:6)->normalization->
 ->PCoA Distance Metric: braycurtis (run dereplicator-annotates known Peptide Nat Products)->Submit
+
+
+feature_table_filtered_no_null_AK.csv - summed up intensities and deleted ones that are 0- broughr a lot of unknowns to visualisatio in cytoscape
+aronlabshared/mouse_studies/refined.mgf -No blanks?
        
