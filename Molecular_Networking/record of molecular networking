@@ -41,5 +41,5 @@ Advanced Analysis Tool->Feature Networking->insert 3 files->basic options (0.02 
 
 
 feature_table_filtered_no_null_AK.csv - summed up intensities and deleted ones that are 0- broughr a lot of unknowns to visualisatio in cytoscape
-aronlabshared/mouse_studies/refined.mgf -No blanks?
+aronlabshared/mouse_studies/refined.mgf -python code
        
