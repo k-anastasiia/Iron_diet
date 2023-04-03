@@ -1,0 +1,14 @@
+feature	ATTRIBUTE_Diet
+121.mzML	Normal
+122.mzML	Normal
+123.mzML	Normal
+124.mzML	Normal
+125.mzML	Normal
+126.mzML	Deficient
+128.mzML	Deficient
+129.mzML	Deficient
+130.mzML	Deficient
+131.mzML	0.6% Fe
+132.mzML	0.6% Fe
+133.mzML	0.6% Fe
+135.mzML	0.6% Fe
