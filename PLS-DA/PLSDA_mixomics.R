@@ -31,10 +31,21 @@ data_merge <- metadata %>% dplyr::select("...1", "ATTRIBUTE_Diet") %>%
 # Load example data
 X <- data_merge %>% dplyr::select(-ATTRIBUTE_Diet)# predictor variable
 Y <- data_merge$ATTRIBUTE_Diet # response variables 
-plsda <- mixOmics::splsda(X, Y, scale = FALSE)
+plsda <- mixOmics::plsda(X, Y, scale = FALSE)  #plsda or splsda?
 plotIndiv(plsda, col = c("Normal"="green4", "Deficient"="red3","0.6% Fe"="royalblue1"), title = 'PLSDA results',ellipse = TRUE, legend = TRUE, legend.title = "Diet")
 plotVar(plsda)
-selectVar(plsda)
+l <- plotLoadings(plsda, contrib = "max")
+
+#select the variables that have the highest correlation with a given component of the PLS-DA model
+dr1<-as.list(selectVar(plsda, comp=1)) 
+View(dr1)
+dr2<-as.list(selectVar(plsda, comp=2)) 
+View(dr2)
+
+# select variables based on their VIP scores 
+vip(plsda) 
+View(vip(plsda))
+
 
 
 #############BEFORE DIET SWITCH######################      
@@ -53,6 +64,17 @@ plotIndiv(plsda_before, col = c("Normal"="green4", "Deficient"="red3","0.6% Fe"=
 plotVar(plsda_before)
 selectVar(plsda_before)
 
+#select the variables that have the highest correlation with a given component of the PLS-DA model
+dr1b<-as.list(selectVar(plsda_before, comp=1)) 
+View(dr1b)
+dr2b<-as.list(selectVar(plsda_before, comp=2)) 
+View(dr2b)
+
+# select variables based on their VIP scores 
+vip(plsda_before) 
+View(vip(plsda_before))
+
+
 #############AFTER DIET SWITCH######################      
 metadata_full_ak<- read_csv("~/Desktop/mouse_studies/PLS-DA/metadata_full (ak).csv")
 metadata_after <- metadata_full_ak[68:187,] 
@@ -70,7 +92,15 @@ plotVar(plsda_after)
 selectVar(plsda_after)
 
 
+#select the variables that have the highest correlation with a given component of the PLS-DA model
+dr1a<-as.list(selectVar(plsda_after, comp=1)) 
+View(dr1a)
+dr2a<-as.list(selectVar(plsda_after, comp=2)) 
+View(dr2a)
 
+# select variables based on their VIP scores 
+vip(plsda_after) 
+View(vip(plsda_after))
 
 
 
