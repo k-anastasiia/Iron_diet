@@ -22,9 +22,9 @@ II. Molecular Networking-GNPS
   -Classical:only MS2 data, need to load mzMLfile additionally
   -Feature-based (FBMN): MS1+MS (perform MzMine feature finding beforehand)
 FBMN requirement files:
-  1. Feature table:.txt or .cvs (with intensities of LC-MS)
+  1. Feature table:.txt or .cvs (with intensities of LC-MS):column name: 'row ID' (not 'row_ID')
   2. .mgf file: MS2 spectral summary
-  3. Metadata table (text(tab delimited))
+  3. Metadata table (text(tab delimited) only!)
             Metadata table format: open the resul file from feature finding (cvs)->copy all of mzML peak area names
 ->transpose->delete "_peak area"->filename
             Column 1: filename (xxx1.mzML, xxx2.mxML, ...)
