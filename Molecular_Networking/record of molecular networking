@@ -1,5 +1,5 @@
 Record of feature finding in MZmine and molecular networking:
-I. MzMine: 1. Raw data import <-raw data methods
+I. MzMine: 1. Raw data import <-raw data methods (only blank in,no blank out!)
 2. Open one of the files to manually investigate
 3. Processing wizard->  LC-MS workflow->choose mode and instrument
 4. MS presets: -MS noise level: zoom in on actual sample and find where the noise is
@@ -16,6 +16,7 @@ I. MzMine: 1. Raw data import <-raw data methods
 6. Export->V->choose location, put a date in a name
 7. Build batch->remove smoothing
                   -ion identity networking->ion identity library->setup->choose all adducts
+save batch, change to neg adducts if neg mode
 *to make , for example, Fe3+:add->put mass monoisotopic->click combine->[M+Fe]+3 + [M-H]- + [M-H]- ->add->[M+Fe-2H]+
 
 II. Molecular Networking-GNPS
