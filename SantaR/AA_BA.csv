@@ -1,0 +1,40 @@
+Row_ID,SpectrumID,Compound_Name,Precursor_MZ,RT_Query,MZErrorPPM,superclass,class,subclass,npclassifier_superclass,npclassifier_class,npclassifier_pathway
+11220,CCMSLIB00006582358,Ala-DCA,464.337,475.363,0.46006,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+7687,CCMSLIB00006582758,Ala-gMCA,480.332,366.311,3.74853,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+6541,CCMSLIB00006582578,Arg-bMCA,565.396,326.981,1.72722,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholestane steroids,Terpenoids
+8277,CCMSLIB00006581978,Asn-CA,523.338,382.201,4.31519,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+6925,CCMSLIB00006582764,Asn-gMCA,523.338,339.149,3.38217,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+7099,CCMSLIB00006582680,Gln-aMCA,537.353,343.935,2.15811,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+8152,CCMSLIB00006581983,Gln-CA,537.353,378.329,3.86188,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+8324,CCMSLIB00006582256,Gln-CA*,537.353,382.597,8.17811,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+8555,CCMSLIB00006581983,Gln-CA**,537.353,387.821,12.04,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+7416,CCMSLIB00006582736,Glu-bMCA,538.337,355.834,0.566886,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+7662,CCMSLIB00006582736,Glu-bMCA*,538.337,363.365,3.9682,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+8843,CCMSLIB00006582258,Glu-CA,538.337,395.904,1.13377,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+10752,CCMSLIB00006582033,Glu-CDCA,522.343,453.767,0.93479,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+10919,CCMSLIB00006582372,Glu-DCA,522.343,462.648,1.16849,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+5882,CCMSLIB00006582592,His-bMCA,546.354,307.31,2.90455,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+7368,CCMSLIB00006581987,His-CA*,546.354,353.586,2.79284,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+8776,CCMSLIB00006582203,His-UDCA,530.359,394.513,4.83347,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+10269,CCMSLIB00006582594,Ile/Leu-bMCA,522.379,435.974,5.7252,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholestane steroids,Terpenoids
+11267,CCMSLIB00006582263,Ile/Leu-CA,522.379,477.772,0,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+7598,CCMSLIB00006581995,Lys-CA,537.39,360.583,3.18016,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids|Cholestane steroids,Terpenoids
+6544,CCMSLIB00005467944,Lys-CA*,537.39,327.296,1.70366,N/A,N/A,N/A,Steroids,Cholane steroids|Cholestane steroids,Terpenoids
+6237,CCMSLIB00006582554,Ornithine-aMCA,523.374,318.702,4.89798,N/A,N/A,N/A,Steroids,Cholestane steroids,Terpenoids
+7411,CCMSLIB00006581999,Ornithine-CA,523.374,356.637,3.96503,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+10833,CCMSLIB00006582603,Phe-bMCA,556.363,458.446,1.42615,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholestane steroids,Terpenoids
+11563,CCMSLIB00006582277,Phe-CA,556.363,490.598,1.97467,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+13103,CCMSLIB00006582110,Phe-DCA,540.368,551.316,0.338853,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+10446,CCMSLIB00006582789,Phe-gMCA,556.363,440.67,2.962,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholestane steroids,Terpenoids
+7392,CCMSLIB00006582713,Thr-aMCA,510.343,355.297,1.37536,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids|Cholestane steroids,Terpenoids
+9033,CCMSLIB00006582286,Thr-CA,510.343,400.714,1.97334,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+10743,CCMSLIB00006582401,Thr-DCA,494.348,453.6,2.03719,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+7657,CCMSLIB00006582656,Thr-gMCA,510.343,363.298,0.418587,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids|Cholestane steroids,Terpenoids
+10338,CCMSLIB00006582612,Trp-bMCA,595.374,436.376,3.99811,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholestane steroids,Terpenoids
+11074,CCMSLIB00006582289,Trp-CA,595.374,471.242,4.71572,N/A,N/A,N/A,Steroids,Cholane steroids,Terpenoids
+9058,CCMSLIB00006582755,Tyr-bMCA,572.358,400.335,3.41242,N/A,N/A,N/A,Steroids,Cholestane steroids,Terpenoids
+10224,CCMSLIB00006582013,Tyr-CA,572.358,431.646,5.86509,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
+8626,CCMSLIB00006582661,Tyr-gMCA,572.358,389.79,2.98587,N/A,N/A,N/A,Steroids,Cholestane steroids,Terpenoids
+10374,CCMSLIB00006582073,Val-CDCA,492.368,436.787,2.78916,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids|Cholestane steroids,Terpenoids
+11595,CCMSLIB00006582186,Val-HDCA,492.368,491.541,3.40897,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids|Cholestane steroids,Terpenoids
+6267,CCMSLIB00005467945,His-CA,546.354,319.382,4.35683,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Steroids,Cholane steroids,Terpenoids
