@@ -1,0 +1,607 @@
+SpectrumID	Compound_Name	Precursor_MZ	ExactMass	Row_ID	subclass
+CCMSLIB00010105221	naringenin CollisionEnergy:102040	273.076	0	8134	Flavans
+CCMSLIB00003135371	Spectral Match to DL-Phenylalanine from NIST14	166.083	165.079	1777	Amino acids, peptides, and analogues
+CCMSLIB00010105221	naringenin CollisionEnergy:102040	273.076	0	7661	Flavans
+CCMSLIB00003135716	Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14	546.352	523.364	14732	Glycerophosphocholines
+CCMSLIB00003137287	Spectral Match to Nonaethylene glycol from NIST14	415.254	414.246	3035	Ethers
+CCMSLIB00010111580	ferulic acid CollisionEnergy:102040	177.055	0	4524	Hydroxycinnamic acids and derivatives
+CCMSLIB00003137471	Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	544.337	521.348	13834	Glycerophosphocholines
+CCMSLIB00000211521	Massbank:EA282110 Amitriptyline|3-(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-ylidene)-N,N-dimethyl-1-propanamine	278.19	0	8680	N/A
+CCMSLIB00003139504	Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14	518.321	0	13712	N/A
+CCMSLIB00003139119	Spectral Match to Tris(2-butoxyethyl) phosphate from NIST14	421.233	0	13794	N/A
+CCMSLIB00003138938	Spectral Match to Sulfadimethoxine from NIST14	311.08	310.074	6567	Benzenesulfonamides
+CCMSLIB00003134494	Spectral Match to Adenosine, 5'-S-methyl-5'-thio- from NIST14	298.093	297.09	2047	5'-deoxy-5'-thionucleosides
+CCMSLIB00003138938	Spectral Match to Sulfadimethoxine from NIST14	311.08	310.074	6051	Benzenesulfonamides
+CCMSLIB00003139504	Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14	518.321	0	13366	N/A
+CCMSLIB00003136925	Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14	532.337	509.348	13974	Glycerophosphocholines
+CCMSLIB00010111932	"""Prunin, Naringenin-7-O-glucoside CollisionEnergy:102040"""	435.129	0	5414	Flavonoid glycosides
+CCMSLIB00003136925	Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14	532.337	509.348	14077	Glycerophosphocholines
+CCMSLIB00003139119	Spectral Match to Tris(2-butoxyethyl) phosphate from NIST14	421.233	0	14139	N/A
+CCMSLIB00003139133	Spectral Match to Cholic acid from NIST14	426.322	0	9034	N/A
+CCMSLIB00006422380	Sakuranetin	287.09	286.084	10686	O-methylated flavonoids
+CCMSLIB00006422380	Sakuranetin	287.09	286.084	10973	O-methylated flavonoids
+CCMSLIB00010111932	"""Prunin, Naringenin-7-O-glucoside CollisionEnergy:102040"""	435.129	0	5034	Flavonoid glycosides
+CCMSLIB00003136804	Spectral Match to Tributyl phosphate from NIST14	267.172	0	13100	N/A
+CCMSLIB00005722482	NCGC00169550-02!(E)-3-(4-hydroxy-3-methoxyphenyl)-N-[2-(4-hydroxyphenyl)ethyl]prop-2-enamide [IIN-based: Match]	314.139	313.132	6801	Methoxyphenols
+CCMSLIB00010113136	"""1-({[2-(2-furylmethyl)-5-methylpyrrolidinyl]amino}methylene)-7-[8-({[2-(2-fury lmethyl)pyrrolidinyl]amino}methylene)-1,6-dihydroxy-3-methyl-5-(methylethyl)-7 -oxo(2-naphthyl)]-3,8-dihydroxy-6-methyl-4-(methylethyl)naphthalen-2-one CollisionEnergy:102040"""	415.212	0	11792	N/A
+CCMSLIB00000211521	Massbank:EA282110 Amitriptyline|3-(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-ylidene)-N,N-dimethyl-1-propanamine	278.19	0	8299	N/A
+CCMSLIB00003135580	Spectral Match to Dibutyl phthalate from NIST14	279.159	278.152	14936	Benzoic acids and derivatives
+CCMSLIB00010105650	Pinocembrine CollisionEnergy:102040	257.081	0	11191	Flavans
+CCMSLIB00006582258	Glu-CA	538.337	537.33	8843	Bile acids, alcohols and derivatives
+CCMSLIB00003134695	Spectral Match to Sinapyl alcohol from NIST14	193.09	210.089	2512	Methoxyphenols
+CCMSLIB00003139133	Spectral Match to Cholic acid from NIST14	426.322	0	8456	N/A
+CCMSLIB00010102114	2-oxindole-3-acetic acid CollisionEnergy:205060	174.054	191.058	2712	Indolyl carboxylic acids and derivatives
+CCMSLIB00003139133	Spectral Match to Cholic acid from NIST14	426.322	0	10481	N/A
+CCMSLIB00006422380	Sakuranetin	287.09	286.084	7397	O-methylated flavonoids
+CCMSLIB00010113136	"""1-({[2-(2-furylmethyl)-5-methylpyrrolidinyl]amino}methylene)-7-[8-({[2-(2-fury lmethyl)pyrrolidinyl]amino}methylene)-1,6-dihydroxy-3-methyl-5-(methylethyl)-7 -oxo(2-naphthyl)]-3,8-dihydroxy-6-methyl-4-(methylethyl)naphthalen-2-one CollisionEnergy:102040"""	415.212	0	12145	N/A
+CCMSLIB00003135910	Spectral Match to Decaethylene glycol from NIST14	459.28	458.273	3608	Ethers
+CCMSLIB00003137060	Spectral Match to L-Tryptophan from NIST14	188.07	0	1960	N/A
+CCMSLIB00003134695	Spectral Match to Sinapyl alcohol from NIST14	193.09	210.089	3963	Methoxyphenols
+CCMSLIB00003137060	Spectral Match to L-Tryptophan from NIST14	188.07	0	1917	N/A
+CCMSLIB00003134713	Spectral Match to Phe-Leu from NIST14	279.17	0	3191	N/A
+CCMSLIB00010113342	SINAPIC ACID CollisionEnergy:102040	207.065	0	4639	Hydroxycinnamic acids and derivatives
+CCMSLIB00003136846	Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14	468.308	0	12002	N/A
+CCMSLIB00010104554	8-isopentenylnaringenin CollisionEnergy:102040	341.138	0	11338	Flavans
+CCMSLIB00003134527	Spectral Match to Lauroyl L-carnitine from NIST14	344.279	0	11507	N/A
+CCMSLIB00003136885	Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	504.305	0	14487	N/A
+CCMSLIB00003136846	Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14	468.308	0	12265	N/A
+CCMSLIB00003137382	Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14	532.337	509.348	14081	Glycerophosphocholines
+CCMSLIB00006422380	Sakuranetin	287.09	286.084	5805	O-methylated flavonoids
+CCMSLIB00003134553	Spectral Match to 1-Hexadecyl-sn-glycero-3-phosphocholine from NIST14	482.36	481.353	13700	Glycerophosphocholines
+CCMSLIB00003137441	Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14	490.291	0	11925	N/A
+CCMSLIB00003138174	Spectral Match to Enterolactone from NIST14	299.128	298.121	8202	Tetrahydrofuran lignans
+CCMSLIB00003135910	Spectral Match to Decaethylene glycol from NIST14	459.28	458.273	3356	Ethers
+CCMSLIB00003138947	Spectral Match to Ile-Leu-Lys from NIST14	187.144	372.274	1578	Amino acids, peptides, and analogues
+CCMSLIB00003137165	Spectral Match to 1-Pentadecanoyl-sn-glycero-3-phosphocholine from NIST14	482.323	481.317	12823	Glycerophosphocholines
+CCMSLIB00003135605	Spectral Match to Palatinose from NIST14	360.15	342.116	1002	Carbohydrates and carbohydrate conjugates
+CCMSLIB00003139133	Spectral Match to Cholic acid from NIST14	426.322	0	10680	N/A
+CCMSLIB00003137060	Spectral Match to L-Tryptophan from NIST14	188.07	0	1862	N/A
+CCMSLIB00001059689	Stercobilin	595.35	595.35	7106	Bilirubins
+CCMSLIB00003139369	Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	476.273	328.204	13276	2-phenoxypropionic acid esters
+CCMSLIB00003134527	Spectral Match to Lauroyl L-carnitine from NIST14	344.279	0	11698	N/A
+CCMSLIB00003138932	Spectral Match to Monoelaidin from NIST14	339.289	356.293	14576	Monoradylglycerols
+CCMSLIB00003134553	Spectral Match to 1-Hexadecyl-sn-glycero-3-phosphocholine from NIST14	482.36	481.353	13564	Glycerophosphocholines
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	9500	N/A
+CCMSLIB00003137091	Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	476.273	453.285	13374	Glycerophosphoethanolamines
+CCMSLIB00003138553	Spectral Match to Ile-Pro-Ile from NIST14	342.239	341.232	5243	Amino acids, peptides, and analogues
+CCMSLIB00000579857	0327_Tris(1-chloro-2-propyl)phosphate	327.008	0	11454	Phosphate esters
+CCMSLIB00003136336	Spectral Match to Lyso-PC(16:0) from NIST14	496.34	495.332	13169	Glycerophosphocholines
+CCMSLIB00003138174	Spectral Match to Enterolactone from NIST14	299.128	298.121	8805	Tetrahydrofuran lignans
+CCMSLIB00003136336	Spectral Match to Lyso-PC(16:0) from NIST14	496.34	495.332	13438	Glycerophosphocholines
+CCMSLIB00006582736	Glu-bMCA	538.337	537.33	7416	Bile acids, alcohols and derivatives
+CCMSLIB00003134925	Spectral Match to Enterodiol from NIST14	267.138	0	6907	N/A
+CCMSLIB00003135580	Spectral Match to Dibutyl phthalate from NIST14	279.159	278.152	14444	Benzoic acids and derivatives
+CCMSLIB00003136720	Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14	524.371	0	14244	N/A
+CCMSLIB00003139086	Spectral Match to D-Turanose from NIST14	325.113	0	1287	N/A
+CCMSLIB00000841836	MassbankEU:SM850301 Sulfamethazine|4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide	279.091	0	3137	Benzenesulfonamides
+CCMSLIB00003137270	Spectral Match to cis-7-Hexadecenoic acid methyl ester from NIST14	269.247	268.24	15284	Fatty acid esters
+CCMSLIB00000579538	0358_Sulfamethazine	279.091	0	2614	Benzenesulfonamides
+CCMSLIB00003138708	Spectral Match to Phe-Phe from NIST14	313.154	312.147	4484	Amino acids, peptides, and analogues
+CCMSLIB00010105650	Pinocembrine CollisionEnergy:102040	257.081	0	10635	Flavans
+CCMSLIB00010103114	N-Acetyl-D-Mannosamine CollisionEnergy:102040	222.097	0	979	Carbohydrates and carbohydrate conjugates
+CCMSLIB00003136720	Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14	524.371	0	15100	N/A
+CCMSLIB00003138415	Spectral Match to Undecaethylene glycol from NIST14	503.306	502.299	4021	Ethers
+CCMSLIB00003136497	Spectral Match to Tris(2-butoxyethyl) phosphate from NIST14	399.251	398.243	13795	Phosphate esters
+CCMSLIB00003138553	Spectral Match to Ile-Pro-Ile from NIST14	342.239	341.232	3978	Amino acids, peptides, and analogues
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	11854	N/A
+CCMSLIB00001059689	Stercobilin	595.35	595.35	7295	Bilirubins
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	10944	N/A
+CCMSLIB00005738576	Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate	372.311	0	13027	Fatty acid esters
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	11291	N/A
+CCMSLIB00003138223	Spectral Match to Deoxycholic acid from NIST14	785.59	392.293	12292	Bile acids, alcohols and derivatives
+CCMSLIB00003137125	Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14	293.247	0	15343	N/A
+CCMSLIB00005884987	Palmitoylcarnitine -  eV	400.342	0	14213	Fatty acid esters
+CCMSLIB00004696683	syringin	395.131	0	2514	Carbohydrates and carbohydrate conjugates
+CCMSLIB00003138415	Spectral Match to Undecaethylene glycol from NIST14	503.306	502.299	3654	Ethers
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	11458	N/A
+CCMSLIB00003138947	Spectral Match to Ile-Leu-Lys from NIST14	187.144	372.274	1727	Amino acids, peptides, and analogues
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	12329	N/A
+CCMSLIB00003140055	Spectral Match to Leu-Trp from NIST14	318.181	317.174	4039	Amino acids, peptides, and analogues
+CCMSLIB00003139164	Spectral Match to Oleoyl L-carnitine from NIST14	426.357	0	14507	N/A
+CCMSLIB00006582680	Gln-aMCA	537.353	536.346	7099	Bile acids, alcohols and derivatives
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	10326	N/A
+CCMSLIB00006412001	5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydro-4H-chromen-4-one	273.08	272.068	5415	Flavans
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	8428	N/A
+CCMSLIB00003138932	Spectral Match to Monoelaidin from NIST14	339.289	356.293	14079	Monoradylglycerols
+CCMSLIB00003134547	Spectral Match to Datiscetin from NIST14	287.054	286.048	8860	Flavones
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	12804	N/A
+CCMSLIB00010104459	"""methyl 3-oxo-2-[(3,4,5-trimethoxyphenyl)methylene]benzo[b]furan-5-carboxylate CollisionEnergy:102040"""	208.042	0	9990	N/A
+CCMSLIB00003139358	Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	480.344	479.338	13696	Glycerophosphocholines
+CCMSLIB00003134629	Spectral Match to Pterostilbene from NIST14	257.117	256.11	11722	N/A
+CCMSLIB00006680124	URSOCHOLIC ACID	426.321	0	9930	Bile acids, alcohols and derivatives
+CCMSLIB00003139219	Spectral Match to Glycan Lacto-N-biose from NIST14	366.138	0	14755	N/A
+CCMSLIB00005885094	Tyrosine - 50.00 eV	182.081	0	1446	Amino acids, peptides, and analogues
+CCMSLIB00003136497	Spectral Match to Tris(2-butoxyethyl) phosphate from NIST14	399.251	398.243	14146	Phosphate esters
+CCMSLIB00004680091	Jasmonic Acid	211.133	0	2986	Lineolic acids and derivatives
+CCMSLIB00006582013	Tyr-CA	572.358	571.351	10224	Bile acids, alcohols and derivatives
+CCMSLIB00005463897	DEOXYCHOLATE	357.279	392.293	14084	Bile acids, alcohols and derivatives
+CCMSLIB00003137866	Spectral Match to Matairesinol from NIST14	359.149	0	7776	N/A
+CCMSLIB00003139358	Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	480.344	479.338	13926	Glycerophosphocholines
+CCMSLIB00006582755	Tyr-bMCA	572.358	571.351	9058	N/A
+CCMSLIB00006680127	TAUROCHOLIC ACID	533.326	0	8095	Bile acids, alcohols and derivatives
+CCMSLIB00006582286	Thr-CA	510.343	509.335	9033	Bile acids, alcohols and derivatives
+CCMSLIB00006117313	Guanosine - 40.0 eV	284.099	0	1612	N/A
+CCMSLIB00003139358	Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	480.344	479.338	13553	Glycerophosphocholines
+CCMSLIB00003136940	Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14	522.355	521.348	13994	Glycerophosphocholines
+CCMSLIB00003138223	Spectral Match to Deoxycholic acid from NIST14	785.59	392.293	12598	Bile acids, alcohols and derivatives
+CCMSLIB00005738576	Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate	372.311	0	12777	Fatty acid esters
+CCMSLIB00005435561	taurocholic acid	516.297	515.292	8135	Bile acids, alcohols and derivatives
+CCMSLIB00003134492	Spectral Match to Phe-Leu from NIST14	279.17	0	3919	N/A
+CCMSLIB00003138875	Spectral Match to 1-(1Z-Octadecenyl)-sn-glycero-3-phosphocholine from NIST14	508.375	507.369	14894	Glycerophosphocholines
+CCMSLIB00006680127	TAUROCHOLIC ACID	533.326	0	7790	Bile acids, alcohols and derivatives
+CCMSLIB00003139133	Spectral Match to Cholic acid from NIST14	426.322	0	10242	N/A
+CCMSLIB00003139198	Spectral Match to N.alpha.-Acetyl-L-lysine from NIST14	189.123	188.116	890	Amino acids, peptides, and analogues
+CCMSLIB00005467944	Lysine conjugated cholic acid	537.39	0	6260	N/A
+CCMSLIB00003134881	Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	454.291	453.285	13293	Glycerophosphoethanolamines
+CCMSLIB00010105811	lumichrome CollisionEnergy:102040	243.088	0	5218	Alloxazines and isoalloxazines
+CCMSLIB00003134881	Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	454.291	453.285	13591	Glycerophosphoethanolamines
+CCMSLIB00003136956	Spectral Match to Bilirubin from METLIN	585.269	584.263	12887	Bilirubins
+CCMSLIB00003137091	Spectral Match to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	476.273	453.285	13316	Glycerophosphoethanolamines
+CCMSLIB00010103353	cholic acid CollisionEnergy:102040	817.582	0	10202	Bile acids, alcohols and derivatives
+CCMSLIB00003135123	Spectral Match to 12-Ketodeoxycholic acid from NIST14	391.284	0	11762	Bile acids, alcohols and derivatives
+CCMSLIB00003137175	Spectral Match to 5-Hydroxy-7-methoxyflavanone from NIST14	271.096	0	13302	N/A
+CCMSLIB00003135123	Spectral Match to 12-Ketodeoxycholic acid from NIST14	391.284	0	11516	Bile acids, alcohols and derivatives
+CCMSLIB00003135083	Spectral Match to 1-Decanoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14	412.246	0	9281	N/A
+CCMSLIB00010105811	lumichrome CollisionEnergy:102040	243.088	0	4824	Alloxazines and isoalloxazines
+CCMSLIB00006126932	kaempferol 7-O-glucopyranoside	449.108	448.101	5531	Flavonoid glycosides
+CCMSLIB00000854835	NCGC00385962-01_C16H24O3_	247.169	264.173	15101	N/A
+CCMSLIB00003137584	Spectral Match to N-Acetyl-D-glucosamine from NIST14	204.087	0	1039	N/A
+CCMSLIB00006121323	2'-Deoxyguanosine - 40.0 eV	268.104	0	1678	Purine 2'-deoxyribonucleosides
+CCMSLIB00006680134	MALTOTRIOSE	505.176	0	1443	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006678147	Lyso PC (16:1)	494.324	494.323	12463	N/A
+CCMSLIB00003138956	Spectral Match to Monoolein from NIST14	357.3	356.293	14409	Monoradylglycerols
+CCMSLIB00000854835	NCGC00385962-01_C16H24O3_	247.169	264.173	11689	N/A
+CCMSLIB00003137866	Spectral Match to Matairesinol from NIST14	359.149	0	8296	N/A
+CCMSLIB00005435561	taurocholic acid	516.297	515.292	7739	Bile acids, alcohols and derivatives
+CCMSLIB00003139403	Spectral Match to 2.alpha.-Mannobiose from NIST14	343.122	0	1352	N/A
+CCMSLIB00000846065	NCGC00380723-01!(2S,3R,4S,5S,6R)-2-[4-[(3S,3aR,6S,6aR)-6-[3,5-dimethoxy-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-3-yl]-2,6-dimethoxyphenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	760.302	742.268	4076	N/A
+CCMSLIB00000851603	NCGC00169081-02_C23H34O16_beta-D-Glucopyranose, 1-[2-[(2S,3E,4S)-3-ethylidene-2-(beta-D-glucopyranosyloxy)-3,4-dihydro-5-(methoxycarbonyl)-2H-pyran-4-yl]acetate]	584.219	566.185	2526	Terpene glycosides
+CCMSLIB00000222420	Massbank:PB006006 Sinapine|2-[(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoyl]oxyethyl-trimethylazanium	310.165	0	3114	Hydroxycinnamic acids and derivatives
+CCMSLIB00000854835	NCGC00385962-01_C16H24O3_	247.169	264.173	14567	N/A
+CCMSLIB00003134721	Spectral Match to 3.beta.-Hydroxy-5-cholenoic acid from NIST14	357.278	0	12607	N/A
+CCMSLIB00006582592	His-bMCA	546.354	545.346	5882	Bile acids, alcohols and derivatives
+CCMSLIB00000852432	NCGC00380452-01_C20H24O10_2-Cyclohexene-1-carboxylic acid, 1-hydroxy-6-oxo-, [2-(beta-D-glucopyranosyloxy)phenyl]methyl ester	447.126	424.137	4402	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006582661	Tyr-gMCA	572.358	571.351	8626	N/A
+CCMSLIB00005464598	RAFFINOSE	527.158	504.169	892	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006582758	Ala-gMCA	480.332	479.325	7687	Bile acids, alcohols and derivatives
+CCMSLIB00003134910	Spectral Match to Pterostilbene from NIST14	257.117	0	12010	N/A
+CCMSLIB00003137628	Spectral Match to L-Tryptophan from NIST14	205.097	204.09	1884	Indolyl carboxylic acids and derivatives
+CCMSLIB00003137165	Spectral Match to 1-Pentadecanoyl-sn-glycero-3-phosphocholine from NIST14	482.323	481.317	13016	Glycerophosphocholines
+CCMSLIB00003138875	Spectral Match to 1-(1Z-Octadecenyl)-sn-glycero-3-phosphocholine from NIST14	508.375	507.369	14970	Glycerophosphocholines
+CCMSLIB00003138771	Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphoethanolamine from NIST14	502.291	0	13401	N/A
+CCMSLIB00000854835	NCGC00385962-01_C16H24O3_	247.169	264.173	10620	N/A
+CCMSLIB00006391401	Riboflavin	377.15	376.138	3062	Alloxazines and isoalloxazines
+CCMSLIB00005435574	taurohyocholic acid	516.299	515.292	6717	Bile acids, alcohols and derivatives
+CCMSLIB00003138408	Spectral Match to Leu-Leu-Arg from NIST14	201.149	0	1745	N/A
+CCMSLIB00010099339	PE(18:1/0:0); [M+H]+ C23H47N1O7P1	480.309	0	13538	N/A
+CCMSLIB00004702149	Salidroside	318.155	0	2114	Carbohydrates and carbohydrate conjugates
+CCMSLIB00003139522	Spectral Match to .beta.-D-Glucose from NIST14	198.097	0	1328	N/A
+CCMSLIB00005435562	taurocholic acid	498.287	515.292	8139	Bile acids, alcohols and derivatives
+CCMSLIB00003137628	Spectral Match to L-Tryptophan from NIST14	205.097	204.09	1946	Indolyl carboxylic acids and derivatives
+CCMSLIB00004696737	ginnalin A	469.098	0	3826	Benzoic acids and derivatives
+CCMSLIB00003137441	Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14	490.291	0	12113	N/A
+CCMSLIB00010108683	Arachidic acid CollisionEnergy:102040	357.274	0	12268	Fatty acids and conjugates
+CCMSLIB00006582789	Phe-gMCA	556.363	555.356	10446	Bile acids, alcohols and derivatives
+CCMSLIB00000850979	NCGC00381006-01_C20H26O10_2-(beta-D-Glucopyranosyloxy)benzyl 1,6-dihydroxy-2-cyclohexene-1-carboxylate	449.142	426.153	4062	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006582736	Glu-bMCA	538.337	537.33	7662	Bile acids, alcohols and derivatives
+CCMSLIB00005435551	lithocholic acid	359.294	376.298	14001	Bile acids, alcohols and derivatives
+CCMSLIB00003139972	Spectral Match to Azithromycin from NIST14	375.261	748.508	5381	Carbohydrates and carbohydrate conjugates
+CCMSLIB00003138775	Spectral Match to Tyr-Phe from NIST14	329.151	328.142	3212	Amino acids, peptides, and analogues
+CCMSLIB00004699027	1,4a-dimethyl-9-oxo-7-propan-2-yl-3,4,10,10a-tetrahydro-2H-phenanthrene-1-carboxylic acid	315.195	0	13328	Diterpenoids
+CCMSLIB00005435562	taurocholic acid	498.287	515.292	7763	Bile acids, alcohols and derivatives
+CCMSLIB00003135794	Spectral Match to Cholic acid from NIST14	839.564	408.288	9109	Bile acids, alcohols and derivatives
+CCMSLIB00006581983	Gln-CA	537.353	536.346	8152	Bile acids, alcohols and derivatives
+CCMSLIB00003137131	Spectral Match to (Z,E)-Tetradeca-9,12-dienol from NIST14	211.205	0	14505	N/A
+CCMSLIB00003136885	Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	504.305	0	14441	N/A
+CCMSLIB00005435562	taurocholic acid	498.287	515.292	6710	Bile acids, alcohols and derivatives
+CCMSLIB00006582554	Ornithine-aMCA	523.374	522.367	6237	N/A
+CCMSLIB00006680120	RAFFINOSE	522.203	0	893	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006412001	5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydro-4H-chromen-4-one	273.08	272.068	5033	Flavans
+CCMSLIB00006582594	Ile/Leu-bMCA	522.379	521.372	10269	Bile acids, alcohols and derivatives
+CCMSLIB00003137125	Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14	293.247	0	11588	N/A
+CCMSLIB00005766542	Massbank:LU130903 Sulfamethazine|4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide	279.091	0	9967	Benzenesulfonamides
+CCMSLIB00003136884	Spectral Match to 3.alpha.,7.alpha.,12.alpha.-Trihydroxycholestanoic acid from NIST14	468.37	0	12769	N/A
+CCMSLIB00006582401	Thr-DCA	494.348	493.34	10743	Bile acids, alcohols and derivatives
+CCMSLIB00005435545	hyocholic acid	817.581	408.288	9663	Bile acids, alcohols and derivatives
+CCMSLIB00000854304	NCGC00385104-01_C20H22O8_beta-D-Glucopyranoside, 2-(hydroxymethyl)phenyl, 6-benzoate	373.128	390.131	6590	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006582603	Phe-bMCA	556.363	555.356	10833	Bile acids, alcohols and derivatives
+CCMSLIB00005884607	D-PANTOTHENIC ACID - 40.0 eV	220.118	0	1661	Amino acids, peptides, and analogues
+CCMSLIB00006126930	dihydrodehydrodiconiferyl alcohol 4-O-glucopyranoside	540.244	522.21	4618	N/A
+CCMSLIB00005435545	hyocholic acid	817.581	408.288	9094	Bile acids, alcohols and derivatives
+CCMSLIB00003135113	Spectral Match to 5-Hydroxy-7-methoxyflavanone from NIST14	271.1	270.089	12711	O-methylated flavonoids
+CCMSLIB00000854835	NCGC00385962-01_C16H24O3_	247.169	264.173	12191	N/A
+CCMSLIB00006582578	Arg-bMCA	565.396	564.389	6541	Bile acids, alcohols and derivatives
+CCMSLIB00005435545	hyocholic acid	817.581	408.288	10477	Bile acids, alcohols and derivatives
+CCMSLIB00003136462	Spectral Match to N-Oleoyltaurine from NIST14	390.268	0	11771	N/A
+CCMSLIB00010099561	PE(17:0/0:0); [M+H]+ C22H47N1O7P1	468.309	0	13985	N/A
+CCMSLIB00000851819	NCGC00384902-01_C22H20N4O2_3,6-Bis(1H-indol-3-ylmethyl)-2,5-piperazinedione	373.166	372.159	6236	Amino acids, peptides, and analogues
+CCMSLIB00003135159	Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	480.347	479.338	13946	Glycerophosphocholines
+CCMSLIB00005884607	D-PANTOTHENIC ACID - 40.0 eV	220.118	0	1774	Amino acids, peptides, and analogues
+CCMSLIB00006582277	Phe-CA	556.363	555.356	11563	Bile acids, alcohols and derivatives
+CCMSLIB00003135141	Spectral Match to 1-Pentadecanoyl-sn-glycero-3-phosphocholine from NIST14	504.306	481.317	12784	Glycerophosphocholines
+CCMSLIB00010099569	PE(18:0/0:0); [M+H]+ C23H49N1O7P1	482.325	0	14482	N/A
+CCMSLIB00010103353	cholic acid CollisionEnergy:102040	817.582	0	10676	Bile acids, alcohols and derivatives
+CCMSLIB00005435553	lithocholic acid	323.273	376.298	14817	Bile acids, alcohols and derivatives
+CCMSLIB00005435567	taurodeoxycholic acid	500.304	499.297	9948	Bile acids, alcohols and derivatives
+CCMSLIB00010083592	PC(20:1/0:0); [M+H]+ C28H57N1O7P1	550.387	0	14950	N/A
+CCMSLIB00006582033	Glu-CDCA	522.343	521.335	10752	Bile acids, alcohols and derivatives
+CCMSLIB00005884607	D-PANTOTHENIC ACID - 40.0 eV	220.118	0	1824	Amino acids, peptides, and analogues
+CCMSLIB00006582263	Ile/Leu-CA	522.379	521.372	11267	Bile acids, alcohols and derivatives
+CCMSLIB00000848620	NCGC00385134-01![(2R,3R,4S,5R,6S)-3-hydroxy-2-(hydroxymethyl)-5,6-bis[(3,4,5-trihydroxybenzoyl)oxy]oxan-4-yl] 3,4,5-trihydroxybenzoate	654.13	636.096	3452	N/A
+CCMSLIB00006582372	Glu-DCA	522.343	521.335	10919	Bile acids, alcohols and derivatives
+CCMSLIB00006581995	Lys-CA	537.39	536.383	7598	Bile acids, alcohols and derivatives
+CCMSLIB00005884607	D-PANTOTHENIC ACID - 40.0 eV	220.118	0	1857	Amino acids, peptides, and analogues
+CCMSLIB00006581999	Ornithine-CA	523.374	522.367	7411	Bile acids, alcohols and derivatives
+CCMSLIB00005465621	"""(4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	409.295	408.288	9550	Bile acids, alcohols and derivatives
+CCMSLIB00003137125	Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14	293.247	0	11736	N/A
+CCMSLIB00004696689	syringin	390.176	0	2513	Carbohydrates and carbohydrate conjugates
+CCMSLIB00010012032	Naringin	581.186	580.179	4669	Flavonoid glycosides
+CCMSLIB00003138408	Spectral Match to Leu-Leu-Arg from NIST14	201.149	0	1579	N/A
+CCMSLIB00010083196	PC(20:3/0:0); [M+H]+ C28H53N1O7P1	546.356	0	13305	N/A
+CCMSLIB00005435562	taurocholic acid	498.287	515.292	7691	Bile acids, alcohols and derivatives
+CCMSLIB00000849039	NCGC00169133-02![(2R,3R,4S,5R,6S)-3-hydroxy-4,5,6-tris[(3,4,5-trihydroxybenzoyl)oxy]oxan-2-yl]methyl 3,4,5-trihydroxybenzoate	806.141	788.107	4620	N/A
+CCMSLIB00004708212	(Z)-3-(4-hydroxyphenyl)-N-[4-[[(E)-3-(4-hydroxyphenyl)prop-2-enoyl]amino]butyl]prop-2-enamide	381.181	0	6728	Hydroxycinnamic acids and derivatives
+CCMSLIB00003134521	Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14	510.355	0	14171	N/A
+CCMSLIB00006581911	alpha-muricholic acid	409.295	408.288	9123	Bile acids, alcohols and derivatives
+CCMSLIB00003137406	Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14	510.355	0	14372	N/A
+CCMSLIB00003134776	Spectral Match to Ile-Glu from NIST14	261.148	260.137	1611	Amino acids, peptides, and analogues
+CCMSLIB00005463880	URSODEOXYCHOLATE	357.279	392.293	11068	Bile acids, alcohols and derivatives
+CCMSLIB00010097619	PC(0:0/20:4); [M+H]+ C28H51N1O7P1	544.34	0	13066	N/A
+CCMSLIB00000854835	NCGC00385962-01_C16H24O3_	247.169	264.173	12893	N/A
+CCMSLIB00010086980	PC(18:2/0:0); [M+H]+ C26H51N1O7P1	520.34	0	12809	N/A
+CCMSLIB00006582256	Gln-CA	537.353	536.346	8324	Bile acids, alcohols and derivatives
+CCMSLIB00006582713	Thr-aMCA	510.343	509.335	7392	Bile acids, alcohols and derivatives
+CCMSLIB00003136458	Spectral Match to Taurocholic acid from NIST14	538.281	515.292	8104	Bile acids, alcohols and derivatives
+CCMSLIB00000855641	NCGC00381323-01_C31H42O17_Methyl (2S,3Z,4S)-3-ethylidene-2-[(6-O-hexopyranosylhexopyranosyl)oxy]-4-{2-[2-(4-hydroxyphenyl)ethoxy]-2-oxoethyl}-3,4-dihydro-2H-pyran-5-carboxylate	704.276	686.242	5865	Terpene glycosides
+CCMSLIB00003137728	Spectral Match to Leucine Enkephalin from NIST14	336.192	0	4634	N/A
+CCMSLIB00003139641	Spectral Match to Ile-Gly-Ile from NIST14	302.207	301.2	3625	Amino acids, peptides, and analogues
+CCMSLIB00010103071	biliverdin CollisionEnergy:102040	583.255	0	10668	Bilirubins
+CCMSLIB00005435567	taurodeoxycholic acid	500.304	499.297	9794	Bile acids, alcohols and derivatives
+CCMSLIB00003136812	Spectral Match to Ile-Ile-Arg from NIST14	401.287	400.28	1751	Amino acids, peptides, and analogues
+CCMSLIB00000851605	NCGC00169081-02_C23H34O16_beta-D-Glucopyranose, 1-[2-[(2S,3E,4S)-3-ethylidene-2-(beta-D-glucopyranosyloxy)-3,4-dihydro-5-(methoxycarbonyl)-2H-pyran-4-yl]acetate]	589.174	566.185	2536	Terpene glycosides
+CCMSLIB00010107223	azelaic acid CollisionEnergy:102040	189.112	0	5036	Fatty acids and conjugates
+CCMSLIB00010010621	Met-C6:0	248.131	247.124	6847	Amino acids, peptides, and analogues
+CCMSLIB00003135141	Spectral Match to 1-Pentadecanoyl-sn-glycero-3-phosphocholine from NIST14	504.306	481.317	13074	Glycerophosphocholines
+CCMSLIB00005742410	Massbank:PR311024 Diferuloyl putrescine	441.202	0	6099	Hydroxycinnamic acids and derivatives
+CCMSLIB00003138475	Spectral Match to 1-Linoleoylglycerol from NIST14	355.284	354.277	15053	Lineolic acids and derivatives
+CCMSLIB00005742410	Massbank:PR311024 Diferuloyl putrescine	441.202	0	6972	Hydroxycinnamic acids and derivatives
+CCMSLIB00005435551	lithocholic acid	359.294	376.298	14485	Bile acids, alcohols and derivatives
+CCMSLIB00003139468	Spectral Match to Glycan 3.alpha.,4.beta.,3.alpha.-Galactotetraose from NIST14	689.21	0	791	N/A
+CCMSLIB00005465543	"""(R)-4-((3R,5R,6R,7S,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	409.295	408.288	10307	Bile acids, alcohols and derivatives
+CCMSLIB00010108869	cholic acid CollisionEnergy:102040	817.582	0	8550	Bile acids, alcohols and derivatives
+CCMSLIB00003138475	Spectral Match to 1-Linoleoylglycerol from NIST14	355.284	354.277	14378	Lineolic acids and derivatives
+CCMSLIB00010099561	PE(17:0/0:0); [M+H]+ C22H47N1O7P1	468.309	0	13731	N/A
+CCMSLIB00005769675	Massbank:NA001087 Coniferaldehyde	179.07	0	5212	Methoxyphenols
+CCMSLIB00003136458	Spectral Match to Taurocholic acid from NIST14	538.281	515.292	7742	Bile acids, alcohols and derivatives
+CCMSLIB00010091589	PC(18:3/0:0); [M+H]+ C26H49N1O7P1	518.325	0	12529	N/A
+CCMSLIB00005467945	Histidine conjugated cholic acid	546.354	0	6267	Bile acids, alcohols and derivatives
+CCMSLIB00005742410	Massbank:PR311024 Diferuloyl putrescine	441.202	0	6533	Hydroxycinnamic acids and derivatives
+CCMSLIB00010010621	Met-C6:0	248.131	247.124	7389	Amino acids, peptides, and analogues
+CCMSLIB00006121561	L-alpha-Glycerylphosphorylcholine - 40.0 eV	258.11	0	1316	Glycerophosphocholines
+CCMSLIB00006582764	Asn-gMCA	523.338	522.331	6925	Bile acids, alcohols and derivatives
+CCMSLIB00005435575	taurohyocholic acid	498.289	515.292	6964	Bile acids, alcohols and derivatives
+CCMSLIB00003136615	Spectral Match to Cholic acid from NIST14	355.263	0	8431	N/A
+CCMSLIB00000211658	Massbank:EA282610 Ketamine|2-(2-chlorophenyl)-2-(methylamino)-1-cyclohexanone	238.099	0	3367	Halobenzenes
+CCMSLIB00004695399	osmanthuside H	450.197	0	2388	Carbohydrates and carbohydrate conjugates
+CCMSLIB00010107223	azelaic acid CollisionEnergy:102040	189.112	0	5345	Fatty acids and conjugates
+CCMSLIB00010010957	Tau-C18:2	388.252	387.244	13306	Fatty amides
+CCMSLIB00010098903	PE(18:2/0:0); [M+H]+ C23H45N1O7P1	478.293	0	12929	N/A
+CCMSLIB00006582656	Thr-gMCA	510.343	509.335	7657	Bile acids, alcohols and derivatives
+CCMSLIB00010061192	PC(20:5/0:0); [M+H]+ C28H49N1O7P1	542.325	0	12932	N/A
+CCMSLIB00003140246	Spectral Match to 26-Hydroxycholesterol-(25R) from NIST14	385.346	0	13798	N/A
+CCMSLIB00000853070	NCGC00347403-02_C30H42O12_1,7-Bis(4-hydroxyphenyl)-3-heptanyl 6-O-[(2S,3R,4R)-3,4-dihydroxy-4-(hydroxymethyl)tetrahydro-2-furanyl]-beta-D-glucopyranoside	612.301	594.268	7120	Linear diarylheptanoids
+CCMSLIB00003137279	Spectral Match to D-erythro-Sphinganine from NIST14	284.294	0	12926	N/A
+CCMSLIB00003137178	Spectral Match to Urobilin from NIST14	591.317	590.31	7221	Bilirubins
+CCMSLIB00005463897	DEOXYCHOLATE	357.279	392.293	11706	Bile acids, alcohols and derivatives
+CCMSLIB00003137178	Spectral Match to Urobilin from NIST14	591.317	590.31	6974	Bilirubins
+CCMSLIB00000853386	NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa[3,4]benzo[1,2-e]azulen-9a-yl acetate	432.238	390.204	12032	Diterpenoids
+CCMSLIB00005467944	Lysine conjugated cholic acid	537.39	0	6544	N/A
+CCMSLIB00003138875	Spectral Match to 1-(1Z-Octadecenyl)-sn-glycero-3-phosphocholine from NIST14	508.375	507.369	15106	Glycerophosphocholines
+CCMSLIB00006582612	Trp-bMCA	595.374	594.367	10338	Bile acids, alcohols and derivatives
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	11341	Lineolic acids and derivatives
+CCMSLIB00010089963	PC(18:3/0:0); [M+H]+ C26H49N1O7P1	518.325	0	11983	N/A
+CCMSLIB00000579738	"""1,2,3,4-tetrahydroharmane-3-carboxylic acid"""	231.114	0	2545	N/A
+CCMSLIB00010064529	PE(18:2/0:0); [M+H]+ C23H45N1O7P1	478.293	0	12673	N/A
+CCMSLIB00006581987	His-CA	546.354	545.346	7368	Bile acids, alcohols and derivatives
+CCMSLIB00006582110	Phe-DCA	540.368	539.361	13103	Bile acids, alcohols and derivatives
+CCMSLIB00003137786	Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	502.328	0	13715	N/A
+CCMSLIB00010103022	Stachyose CollisionEnergy:102040	684.256	0	1392	Carbohydrates and carbohydrate conjugates
+CCMSLIB00005464905	"""(R)-4-((3R,5R,6S,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	391.284	408.288	11159	Bile acids, alcohols and derivatives
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	14275	Lineolic acids and derivatives
+CCMSLIB00000853386	NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa[3,4]benzo[1,2-e]azulen-9a-yl acetate	432.238	390.204	11790	Diterpenoids
+CCMSLIB00003137786	Spectral Match to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine from NIST14	502.328	0	13859	N/A
+CCMSLIB00000848338	NCGC00168957-02!(2R,3R)-3,5-dihydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one	303.086	302.079	8932	O-methylated flavonoids
+CCMSLIB00005464861	"""(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	391.284	408.288	10716	Bile acids, alcohols and derivatives
+CCMSLIB00006680044	TAUROURSODEOXYCHOLIC ACID	517.331	0	9937	Bile acids, alcohols and derivatives
+CCMSLIB00000846823	NCGC00169505-02!3,5-dihydroxy-2-(4-hydroxyphenyl)-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,3-dihydrochromen-4-one	451.123	450.116	3004	Flavonoid glycosides
+CCMSLIB00005465638	"""(4R)-4-((3R,5R,6R,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	409.295	408.288	10512	Bile acids, alcohols and derivatives
+CCMSLIB00003139209	Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphoethanolamine from NIST14	476.275	453.285	12888	Glycerophosphoethanolamines
+CCMSLIB00010010952	Lys-C18:2	409.342	408.335	12874	Amino acids, peptides, and analogues
+CCMSLIB00003135895	Spectral Match to Tyr-Leu from NIST14	295.165	0	2403	N/A
+CCMSLIB00006581978	Asn-CA	523.338	522.331	8277	Bile acids, alcohols and derivatives
+CCMSLIB00010010633	Arg-C8:0	301.223	300.216	5711	Amino acids, peptides, and analogues
+CCMSLIB00000848338	NCGC00168957-02!(2R,3R)-3,5-dihydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one	303.086	302.079	4932	O-methylated flavonoids
+CCMSLIB00005435973	Cholic acid	391.284	408.288	8478	Bile acids, alcohols and derivatives
+CCMSLIB00006118582	Glycodeoxycholic acid - 40.0 eV	450.322	0	11180	Bile acids, alcohols and derivatives
+CCMSLIB00003136615	Spectral Match to Cholic acid from NIST14	355.263	0	10489	N/A
+CCMSLIB00005465699	"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	7649	Bile acids, alcohols and derivatives
+CCMSLIB00004695565	1,3,6-tri-O-galloylglucose	637.104	0	3544	N/A
+CCMSLIB00003136281	Spectral Match to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid from NIST14	277.216	0	13885	N/A
+CCMSLIB00010108869	cholic acid CollisionEnergy:102040	817.582	0	7895	Bile acids, alcohols and derivatives
+CCMSLIB00005720267	Fructoselysine	309.167	309.166	981	Amino acids, peptides, and analogues
+CCMSLIB00006118582	Glycodeoxycholic acid - 40.0 eV	450.322	0	11001	Bile acids, alcohols and derivatives
+CCMSLIB00005465451	"""(R)-4-((3R,5R,6R,7S,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	8914	Bile acids, alcohols and derivatives
+CCMSLIB00005435576	taurohyocholic acid	480.279	515.292	6569	Bile acids, alcohols and derivatives
+CCMSLIB00010070792	PC(20:2/0:0); [M+H]+ C28H55N1O7P1	548.372	0	13933	N/A
+CCMSLIB00005465155	"""(4R)-4-((3R,5R,6R,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	391.284	408.288	9059	Bile acids, alcohols and derivatives
+CCMSLIB00005465559	"""2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	464.283	499.297	9944	Bile acids, alcohols and derivatives
+CCMSLIB00000850979	NCGC00381006-01_C20H26O10_2-(beta-D-Glucopyranosyloxy)benzyl 1,6-dihydroxy-2-cyclohexene-1-carboxylate	449.142	426.153	3643	Carbohydrates and carbohydrate conjugates
+CCMSLIB00010099321	PC(18:2/0:0); [M+H]+ C26H51N1O7P1	520.34	0	13060	N/A
+CCMSLIB00000848338	NCGC00168957-02!(2R,3R)-3,5-dihydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one	303.086	302.079	8179	O-methylated flavonoids
+CCMSLIB00003137598	Spectral Match to Cholic acid from NIST14	355.263	408.288	9050	Bile acids, alcohols and derivatives
+CCMSLIB00005464905	"""(R)-4-((3R,5R,6S,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	391.284	408.288	10320	Bile acids, alcohols and derivatives
+CCMSLIB00005464867	"""(R)-4-((3S,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	839.564	408.288	9912	Bile acids, alcohols and derivatives
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	11773	Lineolic acids and derivatives
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	13416	Lineolic acids and derivatives
+CCMSLIB00005435563	taurocholic acid	480.279	515.292	7879	Bile acids, alcohols and derivatives
+CCMSLIB00006582289	Trp-CA	595.374	594.367	11074	N/A
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	13801	Lineolic acids and derivatives
+CCMSLIB00000854598	NCGC00384762-01_C19H28O10_beta-D-Glucopyranoside, 2-phenylethyl 2-O-beta-D-xylopyranosyl-	434.202	416.168	3893	Carbohydrates and carbohydrate conjugates
+CCMSLIB00003137734	Spectral Match to Ile-Lys from NIST14	260.197	259.19	841	Amino acids, peptides, and analogues
+CCMSLIB00005743747	Massbank:PR311082 Dicoumaroyl Spermidine	438.24	0	4591	Styrenes
+CCMSLIB00010062541	PC(20:2/0:0); [M+H]+ C28H55N1O7P1	548.372	0	14336	N/A
+CCMSLIB00000853754	NCGC00169934-02_C25H32O13_2H-Pyran-4-acetic acid, 2-(beta-D-glucopyranosyloxy)-3,4-dihydro-3-(2-hydroxyethylidene)-5-(methoxycarbonyl)-, 2-(4-hydroxyphenyl)ethyl ester, (2S,3Z,4S)-	563.174	540.184	5448	Terpene glycosides
+CCMSLIB00000849937	NCGC00384818-01_C27H30O11_	553.168	530.179	7585	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006581917	"""3alpha,7alpha-dihydroxy-12-oxo-5beta-cholanic acid"""	407.279	406.272	9507	Bile acids, alcohols and derivatives
+CCMSLIB00005465155	"""(4R)-4-((3R,5R,6R,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	391.284	408.288	9388	Bile acids, alcohols and derivatives
+CCMSLIB00006582203	His-UDCA	530.359	529.352	8776	Bile acids, alcohols and derivatives
+CCMSLIB00003136462	Spectral Match to N-Oleoyltaurine from NIST14	390.268	0	14319	N/A
+CCMSLIB00003134637	Spectral Match to Taurocholic acid from NIST14	538.281	0	6553	N/A
+CCMSLIB00005464905	"""(R)-4-((3R,5R,6S,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	391.284	408.288	10072	Bile acids, alcohols and derivatives
+CCMSLIB00005463880	URSODEOXYCHOLATE	357.279	392.293	10528	Bile acids, alcohols and derivatives
+CCMSLIB00005743747	Massbank:PR311082 Dicoumaroyl Spermidine	438.24	0	4322	Styrenes
+CCMSLIB00006581917	"""3alpha,7alpha-dihydroxy-12-oxo-5beta-cholanic acid"""	407.279	406.272	10102	Bile acids, alcohols and derivatives
+CCMSLIB00005435583	taurohyodeoxycholic acid	464.283	499.297	7974	Bile acids, alcohols and derivatives
+CCMSLIB00005464905	"""(R)-4-((3R,5R,6S,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	391.284	408.288	9724	Bile acids, alcohols and derivatives
+CCMSLIB00003140175	Spectral Match to Leu-Gly-Leu from NIST14	302.21	301.2	2624	Amino acids, peptides, and analogues
+CCMSLIB00003134637	Spectral Match to Taurocholic acid from NIST14	538.281	0	6898	N/A
+CCMSLIB00003134812	Spectral Match to 9(10)-EpOME from NIST14	279.231	0	10042	N/A
+CCMSLIB00010010756	Lys-C16:0	385.342	384.335	13195	Amino acids, peptides, and analogues
+CCMSLIB00000852432	NCGC00380452-01_C20H24O10_2-Cyclohexene-1-carboxylic acid, 1-hydroxy-6-oxo-, [2-(beta-D-glucopyranosyloxy)phenyl]methyl ester	447.126	424.137	4159	Carbohydrates and carbohydrate conjugates
+CCMSLIB00010010756	Lys-C16:0	385.342	384.335	12970	Amino acids, peptides, and analogues
+CCMSLIB00003136281	Spectral Match to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid from NIST14	277.216	0	11655	N/A
+CCMSLIB00006445169	Episyringaresinol 4'-O-beta-D-glncopyranoside	603.21	580.216	5217	N/A
+CCMSLIB00003136374	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	263.236	0	14191	N/A
+CCMSLIB00006582358	Ala-DCA	464.337	463.33	11220	Bile acids, alcohols and derivatives
+CCMSLIB00003135338	Spectral Match to Leu-Glu-Lys from NIST14	195.124	0	909	N/A
+CCMSLIB00010063955	PE(20:4/0:0); [M+H]+ C25H45N1O7P1	502.293	0	12923	N/A
+CCMSLIB00010123244	Candidate sulfated cholic acid	506.28	0	8458	N/A
+CCMSLIB00003138418	Spectral Match to Monolinolenin (9c,12c,15c) from NIST14	353.269	0	15325	N/A
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	10914	Lineolic acids and derivatives
+CCMSLIB00003137598	Spectral Match to Cholic acid from NIST14	355.263	408.288	7660	Bile acids, alcohols and derivatives
+CCMSLIB00004716667	Pantethine	577.234	0	3586	Amino acids, peptides, and analogues
+CCMSLIB00003136374	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	263.236	0	15273	N/A
+CCMSLIB00003134812	Spectral Match to 9(10)-EpOME from NIST14	279.231	0	13334	N/A
+CCMSLIB00005465406	"""(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	7458	Bile acids, alcohols and derivatives
+CCMSLIB00010086490	PE(16:1/0:0); [M+H]+ C21H43N1O7P1	452.278	0	12247	N/A
+CCMSLIB00005465195	"""(3R)-3-((3R,5S,7R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)butanoic acid"""	377.268	394.272	9687	Bile acids, alcohols and derivatives
+CCMSLIB00003139210	Spectral Match to 1-Myristoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	426.262	0	12122	N/A
+CCMSLIB00000850623	NCGC00385000-01_C15H18O8_beta-D-Glucopyranose, 1-O-[(2E)-3-(2-hydroxyphenyl)-1-oxo-2-propen-1-yl]-	309.096	326.1	5349	Hydroxycinnamic acids and derivatives
+CCMSLIB00005767763	Massbank:NA002994 [6]-Gingerol|5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one	295.19	0	11676	Methoxyphenols
+CCMSLIB00005463880	URSODEOXYCHOLATE	357.279	392.293	10894	Bile acids, alcohols and derivatives
+CCMSLIB00000850623	NCGC00385000-01_C15H18O8_beta-D-Glucopyranose, 1-O-[(2E)-3-(2-hydroxyphenyl)-1-oxo-2-propen-1-yl]-	309.096	326.1	5737	Hydroxycinnamic acids and derivatives
+CCMSLIB00005742410	Massbank:PR311024 Diferuloyl putrescine	441.202	0	5104	Hydroxycinnamic acids and derivatives
+CCMSLIB00005465195	"""(3R)-3-((3R,5S,7R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)butanoic acid"""	377.268	394.272	9257	Bile acids, alcohols and derivatives
+CCMSLIB00010123244	Candidate sulfated cholic acid	506.28	0	8783	N/A
+CCMSLIB00003138418	Spectral Match to Monolinolenin (9c,12c,15c) from NIST14	353.269	0	14492	N/A
+CCMSLIB00010097655	PE(20:1/0:0); [M+H]+ C25H51N1O7P1	508.34	0	14262	N/A
+CCMSLIB00003139210	Spectral Match to 1-Myristoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	426.262	0	11943	N/A
+CCMSLIB00003139616	Spectral Match to Ser-Leu from NIST14	219.134	0	1736	N/A
+CCMSLIB00006581909	3-oxo-5beta-cholanic acid	375.289	374.282	10859	Bile acids, alcohols and derivatives
+CCMSLIB00003136615	Spectral Match to Cholic acid from NIST14	355.263	0	10897	N/A
+CCMSLIB00005463880	URSODEOXYCHOLATE	357.279	392.293	11391	Bile acids, alcohols and derivatives
+CCMSLIB00000850623	NCGC00385000-01_C15H18O8_beta-D-Glucopyranose, 1-O-[(2E)-3-(2-hydroxyphenyl)-1-oxo-2-propen-1-yl]-	309.096	326.1	5082	Hydroxycinnamic acids and derivatives
+CCMSLIB00003139918	Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14	295.227	294.22	13627	Lineolic acids and derivatives
+CCMSLIB00003134804	Spectral Match to Ile-Lys from NIST14	260.196	0	1735	N/A
+CCMSLIB00000849451	NCGC00385373-01_C20H28O3_1-Phenanthrenecarboxylic acid, 1,2,3,4,4a,9,10,10a-octahydro-9-hydroxy-1,4a-dimethyl-7-(1-methylethyl)-, (1S,9R)-	299.2	316.204	12702	Diterpenoids
+CCMSLIB00005435576	taurohyocholic acid	480.279	515.292	6991	Bile acids, alcohols and derivatives
+CCMSLIB00005465699	"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	6406	Bile acids, alcohols and derivatives
+CCMSLIB00010010958	Thr-C18:2	382.295	381.288	15158	Amino acids, peptides, and analogues
+CCMSLIB00003137598	Spectral Match to Cholic acid from NIST14	355.263	408.288	7918	Bile acids, alcohols and derivatives
+CCMSLIB00005768662	Massbank:NA002995 [6]-Gingerol|5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one	295.19	0	11955	Methoxyphenols
+CCMSLIB00003135252	Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14	277.215	294.22	8991	Lineolic acids and derivatives
+CCMSLIB00000848247	NCGC00381248-01!4-oxododecanedioic acid	262.165	244.131	6021	Medium-chain keto acids and derivatives
+CCMSLIB00005465702	"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.269	424.283	7578	Bile acids, alcohols and derivatives
+CCMSLIB00000856015	NCGC00168940-03_C26H34O12_4-{[(3S,4R,5S)-3-Hydroxy-5-(4-hydroxy-3-methoxyphenyl)-4-(hydroxymethyl)tetrahydro-3-furanyl]methyl}-2-methoxyphenyl beta-D-glucopyranoside	556.239	538.205	3322	N/A
+CCMSLIB00005465354	"""(4R)-4-((5S,7R,9S,10S,13R,14S,17R)-7-hydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	355.263	390.277	9706	Bile acids, alcohols and derivatives
+CCMSLIB00004684235	TOP 8 Psoriasis feature - Unknown FeatureID=4262	438.297	0	13948	N/A
+CCMSLIB00010107673	Sodium taurodeoxycholate CollisionEnergy:102040	522.286	0	9926	Bile acids, alcohols and derivatives
+CCMSLIB00005464893	"""(R)-4-((3S,5S,7S,8R,9S,10S,12R,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	373.274	408.288	11165	Bile acids, alcohols and derivatives
+CCMSLIB00010056607	PE(18:2/0:0); [M+H]+ C23H45N1O7P1	478.293	0	12899	N/A
+CCMSLIB00000848431	NCGC00168824-02!(E)-undec-2-enedioic acid	215.128	214.121	4442	Fatty acids and conjugates
+CCMSLIB00003134812	Spectral Match to 9(10)-EpOME from NIST14	279.231	0	10594	N/A
+CCMSLIB00000848431	NCGC00168824-02!(E)-undec-2-enedioic acid	215.128	214.121	5171	Fatty acids and conjugates
+CCMSLIB00005465786	"""2-((4R)-4-((5R,7R,8R,9S,10S,12S,13R,17R)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	514.283	513.276	6981	Bile acids, alcohols and derivatives
+CCMSLIB00006581983	Gln-CA	537.353	536.346	8555	Bile acids, alcohols and derivatives
+CCMSLIB00005465242	"""(4R)-4-((3R,5R,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	489.252	488.244	8508	Bile acids, alcohols and derivatives
+CCMSLIB00003136615	Spectral Match to Cholic acid from NIST14	355.263	0	11254	N/A
+CCMSLIB00005755250	Massbank: dehydrocostus lactone|(3aS,6aR,9aR,9bS)-3,6,9-trimethylidene-3a,4,5,6a,7,8,9a,9b-octahydroazuleno[4,5-b]furan-2-one	231.138	0	9956	Terpene lactones
+CCMSLIB00003135978	Spectral Match to Stearidonic acid from NIST14	277.216	0	7856	N/A
+CCMSLIB00010086490	PE(16:1/0:0); [M+H]+ C21H43N1O7P1	452.278	0	12675	N/A
+CCMSLIB00006680127	TAUROCHOLIC ACID	533.326	0	6676	Bile acids, alcohols and derivatives
+CCMSLIB00010086490	PE(16:1/0:0); [M+H]+ C21H43N1O7P1	452.278	0	12083	N/A
+CCMSLIB00003134579	Spectral Match to Monolinolenin (9c,12c,15c) from NIST14	335.258	0	14456	N/A
+CCMSLIB00000852768	NCGC00169398-02_C42H54O22_2H-Pyran-4-acetic acid, 3-ethylidene-2-(beta-D-glucopyranosyloxy)-3,4-dihydro-5-(methoxycarbonyl)-, 2-[4-[[2-[(2S,3E,4S)-3-ethylidene-2-(beta-D-glucopyranosyloxy)-3,4-dihydro-5-(methoxycarbonyl)-2H-pyran-4-yl]acetyl]oxy]phenyl]ethyl ester, (2S,3E,4S)-	933.3	910.311	8115	Terpene glycosides
+CCMSLIB00000849937	NCGC00384818-01_C27H30O11_	553.168	530.179	7307	Carbohydrates and carbohydrate conjugates
+CCMSLIB00000848247	NCGC00381248-01!4-oxododecanedioic acid	262.165	244.131	5753	Medium-chain keto acids and derivatives
+CCMSLIB00006118297	Traumatic Acid - 40.0 eV	229.143	0	7635	Fatty acids and conjugates
+CCMSLIB00003137598	Spectral Match to Cholic acid from NIST14	355.263	408.288	10128	Bile acids, alcohols and derivatives
+CCMSLIB00003139422	Spectral Match to D-erythro-C18-Sphingosine from NIST14	282.279	299.282	12832	Amines
+CCMSLIB00005465702	"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.269	424.283	9105	Bile acids, alcohols and derivatives
+CCMSLIB00004684237	TOP19 Psoriasis feature - Unknown FeatureID=3668	466.328	0	15210	N/A
+CCMSLIB00006422370	Gardenoside	427.12	404.132	2971	Terpene glycosides
+CCMSLIB00004684237	TOP19 Psoriasis feature - Unknown FeatureID=3668	466.328	0	14987	N/A
+CCMSLIB00003135708	Spectral Match to Glycan 3.alpha.,4.beta.,3.alpha.-Galactotetraose from NIST14	689.212	0	867	N/A
+CCMSLIB00003139210	Spectral Match to 1-Myristoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14	426.262	0	11802	N/A
+CCMSLIB00003134682	Spectral Match to 9S-Hydroxy-10E,12Z,15Z-octadecatrienoic acid from NIST14	277.216	294.22	14396	Lineolic acids and derivatives
+CCMSLIB00006420206	Narirutin	603.169	580.179	4670	Flavonoid glycosides
+CCMSLIB00006118297	Traumatic Acid - 40.0 eV	229.143	0	5352	Fatty acids and conjugates
+CCMSLIB00005464762	"""(R)-4-((3R,5R,7R,8R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	977.496	488.244	8580	Bile acids, alcohols and derivatives
+CCMSLIB00004679239	Commendamide	330.264	0	14150	N/A
+CCMSLIB00004679234	(3-hydroxyhexadecanoyl)lysine	401.338	0	12475	N/A
+CCMSLIB00010107673	Sodium taurodeoxycholate CollisionEnergy:102040	522.286	0	10056	Bile acids, alcohols and derivatives
+CCMSLIB00003138895	Spectral Match to Leu-Trp from NIST14	318.181	317.174	4288	Amino acids, peptides, and analogues
+CCMSLIB00005464744	"""(R)-4-((1R,3S,5R,8S,9S,10S,13R,14S,17R)-1,3-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	357.279	392.293	15102	Bile acids, alcohols and derivatives
+CCMSLIB00005464762	"""(R)-4-((3R,5R,7R,8R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	977.496	488.244	8797	Bile acids, alcohols and derivatives
+CCMSLIB00005744119	Massbank:PR302321 Sinapoyl aldehyde	209.081	0	5303	Methoxyphenols
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	15227	Lineolic acids and derivatives
+CCMSLIB00000846581	NCGC00381425-01!8-hydroxy-8-(3-octyloxiran-2-yl)octanoic acid	315.253	314.246	11337	Lineolic acids and derivatives
+CCMSLIB00003136281	Spectral Match to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid from NIST14	277.216	0	13236	N/A
+CCMSLIB00006582294	Val-CA	508.363	507.356	10081	N/A
+CCMSLIB00000855644	NCGC00381323-01_C31H42O17_Methyl (2S,3Z,4S)-3-ethylidene-2-[(6-O-hexopyranosylhexopyranosyl)oxy]-4-{2-[2-(4-hydroxyphenyl)ethoxy]-2-oxoethyl}-3,4-dihydro-2H-pyran-5-carboxylate	709.231	686.242	5866	Terpene glycosides
+CCMSLIB00005435507	deoxycholic acid	375.289	392.293	12609	Bile acids, alcohols and derivatives
+CCMSLIB00005435507	deoxycholic acid	375.289	392.293	12273	Bile acids, alcohols and derivatives
+CCMSLIB00005465873	"""(4R)-4-((3R,5R,8R,9S,10S,12S,13R,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	945.506	472.249	10776	Bile acids, alcohols and derivatives
+CCMSLIB00003139895	Spectral Match to 9-Octadecenamide, (Z)- from NIST14	265.252	0	14973	N/A
+CCMSLIB00005465702	"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.269	424.283	7336	Bile acids, alcohols and derivatives
+CCMSLIB00005435542	hyocholic acid	373.275	408.288	9348	Bile acids, alcohols and derivatives
+CCMSLIB00003137109	Spectral Match to 24S-Hydroxycholesterol from NIST14	385.349	402.35	14609	Bile acids, alcohols and derivatives
+CCMSLIB00005435507	deoxycholic acid	375.289	392.293	11690	Bile acids, alcohols and derivatives
+CCMSLIB00000848180	NCGC00169834-02!2-(6-hydroxyhexyl)-3-methylidenebutanedioic acid	248.149	230.115	3181	Medium-chain hydroxy acids and derivatives
+CCMSLIB00003139413	Spectral Match to 9-Octadecenamide, (Z)- from NIST14	282.279	0	13899	N/A
+CCMSLIB00005464932	"""(3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-17-((2R)-6,7-dihydroxy-6-methylheptan-2-yl)-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol"""	417.336	452.35	9041	Bile acids, alcohols and derivatives
+CCMSLIB00010123392	Isoalantolactone CollisionEnergy:205060	233.154	0	10590	Terpene lactones
+CCMSLIB00003139422	Spectral Match to D-erythro-C18-Sphingosine from NIST14	282.279	299.282	12565	Amines
+CCMSLIB00000846878	NCGC00384563-01!5,7-dihydroxy-2-(4-hydroxyphenyl)-6,8-bis(3,4,5-trihydroxyoxan-2-yl)chromen-4-one	535.144	534.137	4576	Flavonoid glycosides
+CCMSLIB00003134812	Spectral Match to 9(10)-EpOME from NIST14	279.231	0	10876	N/A
+CCMSLIB00003137939	Spectral Match to Cholic acid from NIST14	409.295	0	10987	N/A
+CCMSLIB00000849451	NCGC00385373-01_C20H28O3_1-Phenanthrenecarboxylic acid, 1,2,3,4,4a,9,10,10a-octahydro-9-hydroxy-1,4a-dimethyl-7-(1-methylethyl)-, (1S,9R)-	299.2	316.204	13000	Diterpenoids
+CCMSLIB00005464788	"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	371.258	406.272	11851	Bile acids, alcohols and derivatives
+CCMSLIB00003134812	Spectral Match to 9(10)-EpOME from NIST14	279.231	0	13955	N/A
+CCMSLIB00005436330	PG(16:0_0:0) - 2-hydroxy-3-(2-hydroxyacetoxy)propyl palmitate	485.287	506.262	14147	N/A
+CCMSLIB00010063955	PE(20:4/0:0); [M+H]+ C25H45N1O7P1	502.293	0	13249	N/A
+CCMSLIB00003137975	Spectral Match to Ile-Tyr from NIST14	295.159	0	2133	N/A
+CCMSLIB00005435542	hyocholic acid	373.275	408.288	9682	Bile acids, alcohols and derivatives
+CCMSLIB00005739602	Massbank:PR300771 Cyclo(proline-leucine)	211.144	0	3309	Amino acids, peptides, and analogues
+CCMSLIB00005436330	PG(16:0_0:0) - 2-hydroxy-3-(2-hydroxyacetoxy)propyl palmitate	485.287	506.262	13601	N/A
+CCMSLIB00004679238	Putative (3-hydroxyheptadecanoyl)glycine	344.28	0	14553	N/A
+CCMSLIB00006680127	TAUROCHOLIC ACID	533.326	0	6980	Bile acids, alcohols and derivatives
+CCMSLIB00000079091	TREMULACIN	551.152	528.163	8396	Carbohydrates and carbohydrate conjugates
+CCMSLIB00005464733	"""(R)-4-((3R,5R,8S,9S,10R,13R,14S,17R)-3-hydroxy-10,13-dimethyl-6-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	781.561	390.277	8617	Bile acids, alcohols and derivatives
+CCMSLIB00003136281	Spectral Match to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid from NIST14	277.216	0	9977	N/A
+CCMSLIB00000079091	TREMULACIN	551.152	528.163	7971	Carbohydrates and carbohydrate conjugates
+CCMSLIB00004679232	(3-hydroxypentadecanoyl)lysine	387.322	0	11837	N/A
+CCMSLIB00004680136	Loliolide	197.117	0	4691	N/A
+CCMSLIB00005465336	"""methyl (4R)-4-((3R,5S,7R,9S,10S,13R,15R,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate"""	405.299	422.303	11188	N/A
+CCMSLIB00000853231	NCGC00347702-02_C31H42O17_2-(4-Hydroxyphenyl)ethyl 6-O-{[(2S,3Z,4S)-3-ethylidene-2-(beta-D-glucopyranosyloxy)-5-(methoxycarbonyl)-3,4-dihydro-2H-pyran-4-yl]acetyl}-beta-D-glucopyranoside	704.276	686.242	5306	N/A
+CCMSLIB00005464751	"""(R)-4-((5R,8R,9S,10S,13R,14S,17R)-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	375.289	374.282	15243	Bile acids, alcohols and derivatives
+CCMSLIB00004679239	Commendamide	330.264	0	13810	N/A
+CCMSLIB00000855657	NCGC00169715-02_C20H30O2_Abieta-8(14),9(11),12-triene-7,18-diol	303.232	302.225	13347	Diterpenoids
+CCMSLIB00005465139	"""(4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.268	406.272	11701	Bile acids, alcohols and derivatives
+CCMSLIB00000850178	NCGC00386056-01_C20H30O3_(5xi,9xi)-12-Hydroxyabieta-7,13-dien-18-oic acid	301.216	318.219	12195	Diterpenoids
+CCMSLIB00005723208	NCGC00178646-02!2,4-dihydroxyheptadecyl acetate [IIN-based: Match]	313.273	330.277	14039	Fatty alcohols
+CCMSLIB00003136040	Spectral Match to Dodecanedioic acid from NIST14	213.147	0	9095	N/A
+CCMSLIB00005464893	"""(R)-4-((3S,5S,7S,8R,9S,10S,12R,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	373.274	408.288	11758	Bile acids, alcohols and derivatives
+CCMSLIB00005464717	"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	355.263	390.277	11550	Bile acids, alcohols and derivatives
+CCMSLIB00005464868	"""(R)-4-((3S,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	373.274	408.288	10872	Bile acids, alcohols and derivatives
+CCMSLIB00008851506	closest TMAP match from https://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c04378	241.155	0	1676	N/A
+CCMSLIB00003136040	Spectral Match to Dodecanedioic acid from NIST14	213.147	0	8517	N/A
+CCMSLIB00003136374	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	263.236	0	11787	N/A
+CCMSLIB00005465748	"""(R)-4-((8S,9S,10R,13R,14S,17R)-10,13-dimethyl-3-oxo-2,3,8,9,10,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	371.258	370.251	13687	Bile acids, alcohols and derivatives
+CCMSLIB00003136374	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	263.236	0	10924	N/A
+CCMSLIB00000846581	NCGC00381425-01!8-hydroxy-8-(3-octyloxiran-2-yl)octanoic acid	315.253	314.246	11644	Lineolic acids and derivatives
+CCMSLIB00005464717	"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	355.263	390.277	11839	Bile acids, alcohols and derivatives
+CCMSLIB00006118297	Traumatic Acid - 40.0 eV	229.143	0	5744	Fatty acids and conjugates
+CCMSLIB00000847762	NCGC00347864-02!5-[6-(3-hydroxy-4-methoxyphenyl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-3-yl]-2-methoxyphenol	341.138	358.142	7409	N/A
+CCMSLIB00004693350	2-(hydroxymethyl)-6-[5-[3-(hydroxymethyl)-5-(3-hydroxypropyl)-7-methoxy-2,3-dihydro-1-benzofuran-2-yl]-2-methoxyphenoxy]oxane-3,4,5-triol	545.199	0	4590	N/A
+CCMSLIB00005724601	1-methyl-4-(6-methylhept-5-en-2-yl)-2,3-dioxabicyclo[2.2.2]oct-5-ene	201.164	236.178	11859	1,2-dioxanes
+CCMSLIB00006581909	3-oxo-5beta-cholanic acid	375.289	374.282	11208	Bile acids, alcohols and derivatives
+CCMSLIB00003134812	Spectral Match to 9(10)-EpOME from NIST14	279.231	0	11261	N/A
+CCMSLIB00004679238	Putative (3-hydroxyheptadecanoyl)glycine	344.28	0	15013	N/A
+CCMSLIB00010102347	"""9,10-dihydrojasmonic acid CollisionEnergy:102040"""	195.137	212.141	3265	Lineolic acids and derivatives
+CCMSLIB00003138418	Spectral Match to Monolinolenin (9c,12c,15c) from NIST14	353.269	0	12438	N/A
+CCMSLIB00005435564	taurocholic acid	462.266	515.292	6686	Bile acids, alcohols and derivatives
+CCMSLIB00006680127	TAUROCHOLIC ACID	533.326	0	6145	Bile acids, alcohols and derivatives
+CCMSLIB00005465832	"""methyl (R)-4-((3R,5S,7R,8R,9S,10S,13R,14S,15S,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate"""	405.299	422.303	11448	N/A
+CCMSLIB00005465871	"""(4R)-4-((3R,5R,8R,9S,10S,12S,13R,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	473.257	472.249	10771	Bile acids, alcohols and derivatives
+CCMSLIB00005464893	"""(R)-4-((3S,5S,7S,8R,9S,10S,12R,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	373.274	408.288	11947	Bile acids, alcohols and derivatives
+CCMSLIB00000855373	NCGC00180744-03_C19H24O6_Naphtho[2,3-b]furan-9(4H)-one, 4,8-bis(acetyloxy)-4a,5,6,7,8,8a-hexahydro-3,4a,5-trimethyl-, (4S,4aR,5S,8S,8aS)-	331.153	348.157	4617	Sesquiterpenoids
+CCMSLIB00005463904	CHOLATE	391.284	408.288	7871	Bile acids, alcohols and derivatives
+CCMSLIB00000850178	NCGC00386056-01_C20H30O3_(5xi,9xi)-12-Hydroxyabieta-7,13-dien-18-oic acid	301.216	318.219	13028	Diterpenoids
+CCMSLIB00000855373	NCGC00180744-03_C19H24O6_Naphtho[2,3-b]furan-9(4H)-one, 4,8-bis(acetyloxy)-4a,5,6,7,8,8a-hexahydro-3,4a,5-trimethyl-, (4S,4aR,5S,8S,8aS)-	331.153	348.157	6343	Sesquiterpenoids
+CCMSLIB00005464868	"""(R)-4-((3S,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	373.274	408.288	7064	Bile acids, alcohols and derivatives
+CCMSLIB00005464677	"""(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	8133	Bile acids, alcohols and derivatives
+CCMSLIB00003135252	Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14	277.215	294.22	12521	Lineolic acids and derivatives
+CCMSLIB00005464788	"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	371.258	406.272	11999	Bile acids, alcohols and derivatives
+CCMSLIB00003139928	Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphoethanolamine from NIST14	907.579	0	13061	N/A
+CCMSLIB00005435542	hyocholic acid	373.275	408.288	8969	Bile acids, alcohols and derivatives
+CCMSLIB00003137939	Spectral Match to Cholic acid from NIST14	409.295	0	11271	N/A
+CCMSLIB00000848338	NCGC00168957-02!(2R,3R)-3,5-dihydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one	303.086	302.079	4475	O-methylated flavonoids
+CCMSLIB00005788126	Choldienic acid putative	373.273	0	8227	Bile acids, alcohols and derivatives
+CCMSLIB00005465699	"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	11235	Bile acids, alcohols and derivatives
+CCMSLIB00003136115	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	263.237	280.24	11343	Lineolic acids and derivatives
+CCMSLIB00003139643	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	281.248	280.24	12761	Lineolic acids and derivatives
+CCMSLIB00005435542	hyocholic acid	373.275	408.288	10265	Bile acids, alcohols and derivatives
+CCMSLIB00000855557	NCGC00385643-01_C20H30O3_1-Phenanthrenecarboxylic acid, 7-ethenyl-1,2,3,4,4a,4b,5,6,7,9,10,10a-dodecahydro-9-hydroxy-1,4a,7-trimethyl-	360.253	318.219	9408	Diterpenoids
+CCMSLIB00010107609	CCG-208540 CollisionEnergy:102040	414.337	0	9858	Steroidal alkaloids
+CCMSLIB00003136281	Spectral Match to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid from NIST14	277.216	0	7465	N/A
+CCMSLIB00010098921	PS(18:0/0:0); [M+H]+ C24H49N1O9P1	526.315	0	14902	N/A
+CCMSLIB00005724007	Inosine	269.088	268.081	1650	N/A
+CCMSLIB00000850178	NCGC00386056-01_C20H30O3_(5xi,9xi)-12-Hydroxyabieta-7,13-dien-18-oic acid	301.216	318.219	11782	Diterpenoids
+CCMSLIB00010122923	ferulic acid CollisionEnergy:205060	195.065	0	4541	Hydroxycinnamic acids and derivatives
+CCMSLIB00004679236	(3-hydroxytetradecanoyl)lysine	373.306	0	11247	N/A
+CCMSLIB00003136281	Spectral Match to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid from NIST14	277.216	0	11872	N/A
+CCMSLIB00005464977	"""(4R)-4-((3R,5R,6R,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	373.274	408.288	8695	Bile acids, alcohols and derivatives
+CCMSLIB00004679229	Taurocholic Acid Sulfate	596.256	0	6196	N/A
+CCMSLIB00003136232	Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14	277.216	294.22	10724	Lineolic acids and derivatives
+CCMSLIB00003137125	Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14	293.247	0	12132	N/A
+CCMSLIB00005778207	Massbank:FIO00741 Tricin	331.081	0	8711	O-methylated flavonoids
+CCMSLIB00005435981	Cholic acid	834.609	408.288	10661	Bile acids, alcohols and derivatives
+CCMSLIB00003137184	Spectral Match to 12(13)-Epoxy-9Z-octadecenoic acid from NIST14	297.241	296.235	11891	Fatty acids and conjugates
+CCMSLIB00005465832	"""methyl (R)-4-((3R,5S,7R,8R,9S,10S,13R,14S,15S,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate"""	405.299	422.303	11772	N/A
+CCMSLIB00005435981	Cholic acid	834.609	408.288	10425	Bile acids, alcohols and derivatives
+CCMSLIB00005465094	"""(4R)-4-((3R,5S,6R,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	425.29	424.283	9014	Bile acids, alcohols and derivatives
+CCMSLIB00000848246	NCGC00381248-01!4-oxododecanedioic acid	245.138	244.131	5774	Medium-chain keto acids and derivatives
+CCMSLIB00003137820	Spectral Match to 12(13)-Epoxy-9Z-octadecenoic acid from NIST14	279.232	296.235	12152	Fatty acids and conjugates
+CCMSLIB00003137279	Spectral Match to D-erythro-Sphinganine from NIST14	284.294	0	13840	N/A
+CCMSLIB00005465139	"""(4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.268	406.272	11982	Bile acids, alcohols and derivatives
+CCMSLIB00000853921	NCGC00380365-01_C19H28O13_4-Hydroxy-3,5-dimethoxyphenyl 6-O-[(2S,3R,4R)-3,4-dihydroxy-4-(hydroxymethyl)tetrahydro-2-furanyl]-beta-D-glucopyranoside	487.142	464.153	2014	Carbohydrates and carbohydrate conjugates
+CCMSLIB00006581909	3-oxo-5beta-cholanic acid	375.289	374.282	14004	Bile acids, alcohols and derivatives
+CCMSLIB00005465102	"""(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	7217	Bile acids, alcohols and derivatives
+CCMSLIB00006581909	3-oxo-5beta-cholanic acid	375.289	374.282	11445	Bile acids, alcohols and derivatives
+CCMSLIB00005748136	Massbank:PR311056 Glutamylphenylalanine (isomer of 1503)	295.129	0	2282	Amino acids, peptides, and analogues
+CCMSLIB00005465336	"""methyl (4R)-4-((3R,5S,7R,9S,10S,13R,15R,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate"""	405.299	422.303	11991	N/A
+CCMSLIB00003138103	Spectral Match to Ile-Arg from NIST14	288.197	287.196	1163	Amino acids, peptides, and analogues
+CCMSLIB00000845027	NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate	311.257	328.261	13173	Fatty alcohols
+CCMSLIB00003136115	Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14	263.237	280.24	12788	Lineolic acids and derivatives
+CCMSLIB00000848246	NCGC00381248-01!4-oxododecanedioic acid	245.138	244.131	6152	Medium-chain keto acids and derivatives
+CCMSLIB00003134682	Spectral Match to 9S-Hydroxy-10E,12Z,15Z-octadecatrienoic acid from NIST14	277.216	294.22	11081	Lineolic acids and derivatives
+CCMSLIB00000853244	NCGC00169419-02_C20H28O2_(5xi)-Abieta-8,11,13-trien-18-oic acid	301.216	300.209	11382	Diterpenoids
+CCMSLIB00005465243	"""(4R)-4-((3R,5R,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	999.478	488.244	8522	Bile acids, alcohols and derivatives
+CCMSLIB00005465702	"""(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.269	424.283	10001	Bile acids, alcohols and derivatives
+CCMSLIB00003137762	Spectral Match to Ile-Arg from NIST14	288.203	287.196	1744	Amino acids, peptides, and analogues
+CCMSLIB00003136615	Spectral Match to Cholic acid from NIST14	355.263	0	12759	N/A
+CCMSLIB00006582186	Val-HDCA	492.368	491.361	11595	Bile acids, alcohols and derivatives
+CCMSLIB00005464716	"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	373.273	390.277	11504	Bile acids, alcohols and derivatives
+CCMSLIB00000849937	NCGC00384818-01_C27H30O11_	553.168	530.179	6910	Carbohydrates and carbohydrate conjugates
+CCMSLIB00003140246	Spectral Match to 26-Hydroxycholesterol-(25R) from NIST14	385.346	0	15242	N/A
+CCMSLIB00005465786	"""2-((4R)-4-((5R,7R,8R,9S,10S,12S,13R,17R)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"""	514.283	513.276	4960	Bile acids, alcohols and derivatives
+CCMSLIB00005465243	"""(4R)-4-((3R,5R,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	999.478	488.244	8818	Bile acids, alcohols and derivatives
+CCMSLIB00005465512	"""(4R)-4-((3R,5S,6S,7R,8R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.269	424.283	10694	Bile acids, alcohols and derivatives
+CCMSLIB00000851708	NCGC00169469-03_C20H34O3_1-Naphthalenecarboxylic acid, decahydro-5-(5-hydroxy-3-methylpentyl)-1,4a-dimethyl-6-methylene-, (1R,4aS,5R,8aS)-	323.258	322.251	13280	Diterpenoids
+CCMSLIB00005788066	Glochidone	423.362	0	14962	Triterpenoids
+CCMSLIB00005465439	"""methyl (4R)-4-((5R,9S,10S,12S,13R,17R)-12-hydroxy-10,13-dimethyl-2,5,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate"""	371.294	388.298	14860	Bile acids, alcohols and derivatives
+CCMSLIB00003139965	Spectral Match to trans-EKODE-(E)-Ib from NIST14	293.211	310.214	13252	Fatty acids and conjugates
+CCMSLIB00010066610	PC(18:3/0:0); [M+H]+ C26H49N1O7P1	518.325	0	12080	N/A
+CCMSLIB00005465195	"""(3R)-3-((3R,5S,7R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)butanoic acid"""	377.268	394.272	8076	Bile acids, alcohols and derivatives
+CCMSLIB00004696678	dehydroabietic acid	301.216	0	14515	Diterpenoids
+CCMSLIB00006582073	Val-CDCA	492.368	491.361	10374	Bile acids, alcohols and derivatives
+CCMSLIB00005465512	"""(4R)-4-((3R,5S,6S,7R,8R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.269	424.283	10340	Bile acids, alcohols and derivatives
+CCMSLIB00003134933	Spectral Match to 12,13-DiHOME from NIST14	315.252	0	12186	N/A
+CCMSLIB00005738232	Massbank:RP026902 5?-CHOLANIC ACID-3?-OL-6_7-DIONE	405.264	0	8405	Bile acids, alcohols and derivatives
+CCMSLIB00004697772	[(2R,3S,4S,5R,6S)-4-hydroxy-3,5,6-tris[(3,4,5-trihydroxybenzoyl)oxy]oxan-2-yl]methyl 3,4,5-trihydroxybenzoate	811.096	0	4621	N/A
+CCMSLIB00005465784	"""(R)-4-((1R,3S,5S,7R,8S,9S,10S,12S,13R,14S,17R)-1,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	389.269	424.283	6321	Bile acids, alcohols and derivatives
+CCMSLIB00006581927	O-arachidonoylcarnitine	448.342	447.335	13751	Fatty acid esters
+CCMSLIB00004691838	populin	413.121	0	6452	Carbohydrates and carbohydrate conjugates
+CCMSLIB00005464677	"""(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"""	407.279	424.283	8599	Bile acids, alcohols and derivatives
+CCMSLIB00001059244	Soyaspongenol C	441.373	0	14941	N/A
