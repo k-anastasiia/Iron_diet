@@ -1,0 +1,176 @@
+feature	ATTRIBUTE_Diet
+100.mzML	Deficient
+101.mzML	0.6% Fe
+102.mzML	0.6% Fe
+103.mzML	0.6% Fe
+104.mzML	0.6% Fe
+105.mzML	0.6% Fe
+121.mzML	Normal
+122.mzML	Normal
+123.mzML	Normal
+124.mzML	Normal
+125.mzML	Normal
+126.mzML	Deficient
+128.mzML	Deficient
+129.mzML	Deficient
+130.mzML	Deficient
+131.mzML	0.6% Fe
+132.mzML	0.6% Fe
+133.mzML	0.6% Fe
+135.mzML	0.6% Fe
+137.mzML	Normal
+138.mzML	Normal
+139.mzML	Normal
+140.mzML	Normal
+142.mzML	Deficient
+143.mzML	Deficient
+144.mzML	Deficient
+145.mzML	Deficient
+147.mzML	0.6% Fe
+148.mzML	0.6% Fe
+149.mzML	0.6% Fe
+150.mzML	0.6% Fe
+151.mzML	Normal
+152.mzML	Normal
+153.mzML	Normal
+154.mzML	Normal
+155.mzML	Normal
+156.mzML	Deficient
+157.mzML	Deficient
+158.mzML	Deficient
+159.mzML	Deficient
+16.mzML	Normal
+160.mzML	Deficient
+161.mzML	0.6% Fe
+162.mzML	0.6% Fe
+163.mzML	0.6% Fe
+164.mzML	0.6% Fe
+165.mzML	0.6% Fe
+167.mzML	Normal
+168.mzML	Normal
+169.mzML	Normal
+17.mzML	Normal
+170.mzML	Normal
+172.mzML	Deficient
+173.mzML	Deficient
+174.mzML	Deficient
+175.mzML	Deficient
+177.mzML	0.6% Fe
+178.mzML	0.6% Fe
+179.mzML	0.6% Fe
+18.mzML	Normal
+180.mzML	0.6% Fe
+181.mzML	Normal
+182.mzML	Normal
+183.mzML	Normal
+184.mzML	Normal
+185.mzML	Normal
+186.mzML	Deficient
+187.mzML	Deficient
+188.mzML	Deficient
+189.mzML	Deficient
+19.mzML	Normal
+190.mzML	Deficient
+191.mzML	0.6% Fe
+192.mzML	0.6% Fe
+193.mzML	0.6% Fe
+194.mzML	0.6% Fe
+195.mzML	0.6% Fe
+197.mzML	Normal
+198.mzML	Normal
+199.mzML	Normal
+200.mzML	Normal
+202.mzML	Deficient
+203.mzML	Deficient
+204.mzML	Deficient
+205.mzML	Deficient
+207.mzML	0.6% Fe
+208.mzML	0.6% Fe
+21.mzML	Deficient
+210.mzML	0.6% Fe
+211.mzML	Normal
+212.mzML	Normal
+213.mzML	Normal
+214.mzML	Normal
+215.mzML	Normal
+216.mzML	Deficient
+217.mzML	Deficient
+218.mzML	Deficient
+219.mzML	Deficient
+22.mzML	Deficient
+220.mzML	Deficient
+221.mzML	0.6% Fe
+222.mzML	0.6% Fe
+223.mzML	0.6% Fe
+224.mzML	0.6% Fe
+225.mzML	0.6% Fe
+23.mzML	Deficient
+24.mzML	Deficient
+25.mzML	Deficient
+26.mzML	0.6% Fe
+27.mzML	0.6% Fe
+28.mzML	0.6% Fe
+29.mzML	0.6% Fe
+30.mzML	0.6% Fe
+32.mzML	Normal
+33.mzML	Normal
+34.mzML	Normal
+35.mzML	Normal
+36.mzML	Deficient
+38.mzML	Deficient
+39.mzML	Deficient
+40.mzML	Deficient
+42.mzML	0.6% Fe
+43.mzML	0.6% Fe
+44.mzML	0.6% Fe
+45.mzML	0.6% Fe
+46.mzML	Normal
+47.mzML	Normal
+48.mzML	Normal
+49.mzML	Normal
+50.mzML	Normal
+51.mzML	Deficient
+52.mzML	Deficient
+53.mzML	Deficient
+54.mzML	Deficient
+55.mzML	Deficient
+56.mzML	0.6% Fe
+57.mzML	0.6% Fe
+58.mzML	0.6% Fe
+59.mzML	0.6% Fe
+60.mzML	0.6% Fe
+61.mzML	Normal
+62.mzML	Normal
+63.mzML	Normal
+64.mzML	Normal
+65.mzML	Normal
+66.mzML	Deficient
+67.mzML	Deficient
+68.mzML	Deficient
+69.mzML	Deficient
+70.mzML	Deficient
+71.mzML	0.6% Fe
+72.mzML	0.6% Fe
+73.mzML	0.6% Fe
+74.mzML	0.6% Fe
+75.mzML	0.6% Fe
+77.mzML	Normal
+78.mzML	Normal
+79.mzML	Normal
+80.mzML	Normal
+83.mzML	Deficient
+84.mzML	Deficient
+85.mzML	Deficient
+87.mzML	0.6% Fe
+88.mzML	0.6% Fe
+89.mzML	0.6% Fe
+90.mzML	0.6% Fe
+91.mzML	Normal
+92.mzML	Normal
+93.mzML	Normal
+94.mzML	Normal
+95.mzML	Normal
+96.mzML	Deficient
+97.mzML	Deficient
+98.mzML	Deficient
+99.mzML	Deficient
