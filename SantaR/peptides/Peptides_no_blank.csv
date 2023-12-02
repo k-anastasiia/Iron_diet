@@ -1,0 +1,25 @@
+Row_ID,SpectrumID,Compound_Name,Precursor_MZ,RT_Query,MZErrorPPM,superclass,class,npclassifier_superclass,npclassifier_class,npclassifier_pathway
+1744,CCMSLIB00003137762,Ile-Arg*,288.203,312.954,3.92408,Benzenoids,Benzene and substituted derivatives,,,Alkaloids
+1163,CCMSLIB00003138103,Ile-Arg**,288.197,462.747,2.06165,Lipids and lipid-like molecules,Fatty Acyls,Fatty Acids and Conjugates,Unsaturated fatty acids,Fatty acids
+1611,CCMSLIB00003134776,Ile-Glu,261.148,336.598,3.99717,Organic acids and derivatives,Carboxylic acids and derivatives,Small peptides,Dipeptides,Amino acids and Peptides
+3625,CCMSLIB00003139641,Ile-Gly-Ile,302.207,56.072,2.69066,Organic acids and derivatives,Carboxylic acids and derivatives,Small peptides,Dipeptides|Tripeptides,Amino acids and Peptides
+1751,CCMSLIB00003136812,Ile-Ile-Arg,401.287,22.464,0.847357,Organic oxygen compounds,Organooxygen compounds,Saccharides,Disaccharides,Carbohydrates
+1727,CCMSLIB00003138947,Ile-Leu-Lys*,187.144,394.513,4.83347,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+1578,CCMSLIB00003138947,Ile-Leu-Lys**,187.144,588.996,0.377607,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+1735,CCMSLIB00003134804,Ile-Lys*,260.196,40.653,7.4341,N/A,N/A,N/A,N/A,N/A
+841,CCMSLIB00003137734,Ile-Lys**,260.197,114.136,3.65101,N/A,N/A,N/A,N/A,N/A
+5243,CCMSLIB00003138553,Ile-Pro-Ile*,342.239,417.247,8.41773,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+3978,CCMSLIB00003138553,Ile-Pro-Ile**,342.239,466.783,1.21983,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+2133,CCMSLIB00003137975,Ile-Tyr,295.159,584.703,0.886417,N/A,N/A,N/A,N/A,N/A
+909,CCMSLIB00003135338,Leu-Glu-Lys,195.124,22.783,0.971959,N/A,N/A,N/A,N/A,N/A
+2624,CCMSLIB00003140175,Leu-Gly-Leu,302.21,367.773,0.509832,N/A,N/A,N/A,N/A,N/A
+1745,CCMSLIB00003138408,Leu-Leu-Arg*,201.149,375.158,2.05996,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids|Cholestane steroids,Terpenoids
+1579,CCMSLIB00003138408,Leu-Leu-Arg**,201.149,243.674,1.5346,Organic acids and derivatives,Carboxylic acids and derivatives,Small peptides,Dipeptides,Amino acids and Peptides
+4288,CCMSLIB00003138895,Leu-Trp*,318.181,584.002,5.70149,N/A,N/A,N/A,N/A,N/A
+4039,CCMSLIB00003140055,Leu-Trp**,318.181,445.033,1.62292,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+4634,CCMSLIB00003137728,Leucine Enkephalin,336.192,40.427,2.69066,Organic acids and derivatives,Carboxylic acids and derivatives,Small peptides,Dipeptides|Tripeptides,Amino acids and Peptides
+3919,CCMSLIB00003134492,Phe-Leu*,279.17,350.641,1.01916,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+3191,CCMSLIB00003134713,Phe-Leu**,279.17,376.781,1.04116,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+4484,CCMSLIB00003138708,Phe-Phe,313.154,442.982,1.41667,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroids,Cholane steroids,Terpenoids
+1736,CCMSLIB00003139616,Ser-Leu,219.134,571.187,4.82846,Lipids and lipid-like molecules,Glycerophospholipids,N/A,N/A,N/A
+2403,CCMSLIB00003135895,Tyr-Leu,295.165,498.819,3.44205,N/A,N/A,Stilbenoids,Monomeric stilbenes,Shikimates and Phenylpropanoids
